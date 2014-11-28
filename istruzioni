@@ -1,0 +1,5 @@
+aggiungere nuovi file: git add *
+fare il commit: git commit -m "etichetta"
+aggiornare i file su github: git push origin master
+riportare i file all'ultima versione: sufo git pull
+
