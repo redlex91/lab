@@ -1,4 +1,7 @@
-	 Posizione 1	 Posizione 2 	 Velocità 1	 Velocità 2
-	 0.500000	 0.300000	 0.868444	 -0.800271
-	 Calcolo la distanza fra le particelle che collidono:	 0.010000.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.00	 0.90	 0.10	 0.90	 0.73	 0.70	 -0.83	 -0.05
+	 Calcolo la distanza fra le particelle che collidono:	 -0.015231.
 	 Calcolo la distanza fra le particelle che collidono dopo l'aggiustamento:	 0.010000.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.00	 0.90	 0.10	 0.90	 -0.83	 0.70	 0.73	 -0.05
+	 Calcolo la distanza fra le particelle che collidono:	 -0.015231.

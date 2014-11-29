@@ -17,7 +17,7 @@ double coll_time_search( double r1x, double r1y, double v1x, double v1y, double 
 double v_min_search( double v[ 9 ]);
 double amongst_copies_search( double r1x, double r1y, double v1x, double v1y, double r2x, double r2y, double v2x, double v2y, double s );
 void evolve( double rx[ N ], double ry[ N ], double vx[ N ], double vy[ N ], double delta );
-void speed_refresh( double rx[ N ], double ry[ N ], double vx[ N ], double vy[ N ], double delta, int p1, int p20 ); // p1 e p2 sono risp. le posizioni delle due particelle che collidono
+void speed_refresh( double rx[ N ], double ry[ N ], double vx[ N ], double vy[ N ], int p1, int p2 ); // p1 e p2 sono risp. le posizioni delle due particelle che collidono
 
 int main( void ){
 	// DICHIARAZIONE DELLE VARIABILI
@@ -144,17 +144,19 @@ int main( void ){
 	
 	if( cfPtr == NULL ) printf(" Memoria non disponibile!\n ");
 	else{
-		fprintf( cfPtr, "\t Posizione 1\t Posizione 2 \t Velocità 1\t Velocità 2\n" );
-		fprintf( cfPtr, "\t %f\t %f\t %f\t %f\n", r0x[ min_place[ 0 ] ], r0y[ min_place[ 1 ] ], v0x[ min_place[ 0 ] ], v0y[ min_place[ 1 ] ] );
-		fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono:\t %f.\n",  pow( r0x[ min_place[ 0 ] ] - r0x[ min_place[ 1 ] ], 2 ) + pow(r0y[ min_place [ 0 ] ] - r0y[ min_place[ 1 ] ], 2 ));
+		fprintf( cfPtr, "\t x1\t y1\t x2\t y2 \t vx1\t vy1\t vx2\t vy2\n" );
+		fprintf( cfPtr, "\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\n", r0x[ min_place[ 0 ] ], r0y[ min_place[ 0 ] ], r0x[ min_place[ 1 ] ], r0y[ min_place[ 1 ] ], v0x[ min_place[ 0 ] ], v0y[ min_place[ 0 ] ], v0x[ min_place[ 1 ] ], v0y[ min_place[ 1 ] ] );
+		fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono:\t %f.\n",  pow( r0x[ min_place[ 0 ] ] - r0x[ min_place[ 1 ] ], 2 ) + pow(r0y[ min_place [ 0 ] ] - r0y[ min_place[ 1 ] ], 2 ) - sigma );
 		} // chiudo else - scrittura file
 	fclose( cfPtr );
 		
 	delta_t = min;
-	rx[ N ] = r0x[ N ];
-	ry[ N ] = r0y[ N ];
-	vx[ N ] = v0x[ N ];
-	vy[ N ] = v0y[ N ];
+	for( i=0; i<N; i++ ){
+		rx[ i ] = r0x[ i ];
+		ry[ i ] = r0y[ i ];
+		vx[ i ] = v0x[ i ];
+		vy[ i ] = v0y[ i ];
+	}
 
 	// determino la posizione della particella 2 coinvolta nell'urto
 	if( abs( rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ]) > 0.5 )
@@ -163,13 +165,25 @@ int main( void ){
  
 	if( abs( ry[ min_place[ 0 ] ] - ry[ min_place[ 1 ] ]) > 0.5 )
 		ry[ min_place[ 1  ] ] += floor( 0.5 +  ry[ min_place[ 0 ] ] - ry[ min_place[ 1 ] ] );
+	
 	cfPtr = fopen( "data.dat", "a" );
-	
 	if( cfPtr == NULL ) printf(" Memoria non disponibile!\n ");
-	else fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono dopo l'aggiustamento:\t %f.\n",  pow( r0x[ min_place[ 0 ] ] - r0x[ min_place[ 1 ] ], 2 ) + pow(r0y[ min_place [ 0 ] ] - r0y[ min_place[ 1 ] ], 2 ));
+	else fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono dopo l'aggiustamento:\t %f.\n",  pow( rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ], 2 ) + pow(ry[ min_place [ 0 ] ] - ry[ min_place[ 1 ] ], 2 ) - sigma );
 
-	evolve( rx, ry, vx, vy, delta_t );
+	// evolve( rx, ry, vx, vy, delta_t );
 	
+	// aggiorno le velocità delle paricelle che collidono
+	speed_refresh( rx, ry, vx, vy,  min_place[ 0 ], min_place[ 1 ] );	
+
+	if( cfPtr == NULL ) printf(" Memoria non disponibile!\n ");
+	else{
+		fprintf( cfPtr, "\t x1\t y1\t x2\t y2 \t vx1\t vy1\t vx2\t vy2\n" );
+		fprintf( cfPtr, "\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\n", rx[ min_place[ 0 ] ], ry[ min_place[ 0 ] ], rx[ min_place[ 1 ] ], ry[ min_place[ 1 ] ], vx[ min_place[ 0 ] ], vy[ min_place[ 0 ] ], vx[ min_place[ 1 ] ], vy[ min_place[ 1 ] ] );
+		fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono:\t %f.\n",  pow( rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ], 2 ) + pow(ry[ min_place [ 0 ] ] - ry[ min_place[ 1 ] ], 2 ) - sigma );
+		} // chiudo else - scrittura file
+	fclose( cfPtr );
+		
+
 	return 0;
 }
 
@@ -258,15 +272,18 @@ void evolve( double rx[ N ], double ry[ N ], double vx[ N ], double vy[ N ], dou
 }
 
 // aggiornamento delle velocità
-void speed_refresh( double rx[ N ], double ry[ N ], double vx[ N ], double vy[ N ], double delta, int p1, int p2 ){
-	double vers_rx, vers_ry, dot_prod, sq_ norm;
+void speed_refresh( double rx[ N ], double ry[ N ], double vx[ N ], double vy[ N ], int p1, int p2 ){
+	double vers_rx, vers_ry, dot_prod, sq_norm;
 
 	// qualche calcolo preliminare	
-	sq_norm = ( rx[ p2 ] - rx [ p1 ] ) * (rx[ p2 ] -rx[ p1 ] ) + ( ry[ p2 ] -ry[ p1 ] ) * ( ry[ p2 ] -ry[ p1 ] );
-	vers_rx = ( rx[ p2 ] - rx[ p2 ] ) / sqrt( sq_norm );
+	sq_norm = ( rx[ p2 ] - rx [ p1 ] ) * ( rx[ p2 ] -rx[ p1 ] ) + ( ry[ p2 ] -ry[ p1 ] ) * ( ry[ p2 ] -ry[ p1 ] );
+	vers_rx = ( rx[ p2 ] - rx[ p1 ] ) / sqrt( sq_norm );
 	vers_ry = ( ry[ p2 ] -ry[ p1 ] ) / sqrt( sq_norm );
-	dot_prod = ( vx[ p2 ] - vx[ p1 ] ) * vers_rx + ( vy[ p2 ] -vy[ p1 ] ) * vers_ry;
+	dot_prod = ( vx[ p1 ] - vx[ p2 ] ) * vers_rx + ( vy[ p1 ] -vy[ p2 ] ) * vers_ry;
 	
 	// assegno le nuvoe velocità
-	vx[ p1 ] = 0
+	vx[ p1 ] -= dot_prod * vers_rx;
+	vy[ p1 ] -= dot_prod * vers_ry;
+	vx[ p2 ] += dot_prod * vers_rx;
+	vy[ p2 ] += dot_prod * vers_ry;
 }
