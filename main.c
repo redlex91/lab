@@ -7,10 +7,14 @@
 #include <limits.h>
 
 // DEFINIZIONE DI COSTANTI
-#define N 100
+#define N 4
 #define ETA 0.05
 #define PI 3.14159265358979
 
+// VARIABILI GLOBALI
+double vx[ N ], vy[ N ], rx[ N ], ry[ N ];
+double delta_t; // intervallo fra due passi
+ 
 // PROTOTIPI DELLE FUNZIONI
 double speed_gen( void );
 double coll_time_search( double r1x, double r1y, double v1x, double v1y, double r2x, double r2y, double v2x, double v2y, double s );
@@ -18,27 +22,29 @@ double v_min_search( double v[ 9 ]);
 double amongst_copies_search( double r1x, double r1y, double v1x, double v1y, double r2x, double r2y, double v2x, double v2y, double s );
 void evolve( double rx[ N ], double ry[ N ], double vx[ N ], double vy[ N ], double delta );
 void speed_refresh( double rx[ N ], double ry[ N ], double vx[ N ], double vy[ N ], int p1, int p2 ); // p1 e p2 sono risp. le posizioni delle due particelle che collidono
+double energy_compute( double vx[ N ], double vy[ N ] );
+
 
 int main( void ){
-	// DICHIARAZIONE DELLE VARIABILI
+	/******************************************************* DICHIARAZIONE DELLE VARIABILI ***************************************************************************
+	******************************************************************************************************************************************************************
+	*****************************************************************************************************************************************************************/
 
 	int n = sqrt( N );
 
 	// variabili per l'inizializzazione
 	double	sigma = pow( ( 4.0 * ETA )/( PI * N ) , 0.5 ); // diametro dei dischi
-	double v0x[N], v0y[N], r0x[N], r0y[N]; // posizioni e velocità iniziali
+	// double v0x[N], v0y[N], r0x[N], r0y[N]; // posizioni e velocità iniziali
 	double Mtime[N][N]; // matrice dei tempi
 	double step = 1/(double)n; // distanza fra i centri di dischi nella configurazione iniziale
 	double vcmx=0, vcmy=0; // velocità del centro di massa
 	double ctime, min;
-
+	double r0x[ N ], r0y[ N ]; // coordinate dei punti durante l'urto, per calcolo velocità
 	// variabili per l'evoluzione
 	double t0 = 0; // tempo iniziale al passo i-esimo
-	double delta_t; // intervallo fra due passi 
-	double vx[ N ], vy[ N ], rx[ N ], ry[ N ];
 
 	// indici per cicli
-	int i, j, l, m, min_place[ 2 ];
+	int i, j, k, l, m, min_place[ 2 ];
 
 	// gestione file
 	FILE *cfPtr;
@@ -47,61 +53,68 @@ int main( void ){
 	srand( time( NULL ) );// seme della funzione random
 	
 	/* printf( "\n#%g#\n", sigma ); */
+	
+	/***************************************************************** ASSEGNAZIONE DELLE COORDINATE *****************************************************************
+	******************************************************************************************************************************************************************
+	*****************************************************************************************************************************************************************/
 
 	// coordinate x dei punti
 	for( i=0; i<N; i++ ){
-		r0x[i] = ( ( i % n ) * step );
+		rx[i] = ( ( i % n ) * step );
 	}	
 	// coordinate y dei punti
 	for( i=0; i<N; i++ ){
-		r0y[i] = ( i / n ) * step;
+		ry[i] = ( i / n ) * step;
 	}
 
 	// assegno le velocità a caso
 	for( i=0; i<N; i++ ){
-		v0x[i] = speed_gen();
-		v0y[i] = speed_gen();
+		vx[i] = speed_gen();
+		vy[i] = speed_gen();
 	}
 	
 	// calcolo la velocità del centro di massa
 	for( i=0; i<N; i++ ){
-		vcmx += (double)v0x[i] / N;
-		vcmy += (double)v0y[i] / N;
+		vcmx += (double)vx[i] / N;
+		vcmy += (double)vy[i] / N;
 	}
 	// riassegno le velocità con la condizione vcm=0
 	for( i=0; i<N; i++ ){
-		v0x[i] = v0x[i] - vcmx;
-		v0y[i] = v0y[i] - vcmy;
+		vx[i] = vx[i] - vcmx;
+		vy[i] = vy[i] - vcmy;
 	}
 	
 	vcmx=0, vcmy=0;
 	// controllo che il centro di massa sia fermo
 		for( i=0; i<N; i++ ){
-		vcmx += (double)v0x[i] / N;
-		vcmy += (double)v0y[i] / N;
+		vcmx += (double)vx[i] / N;
+		vcmy += (double)vy[i] / N;
 	}
 	
 	/*
 	printf( "\n Esempio= %f\n" , amongst_copies_search( r0x[1], r0y[1], v0x[1], v0y[1], r0x[0], r0y[0], v0x[0], v0y[0], sigma ) );
 	// controlli vari
-	printf( "%f,%f\n\n", vcmx, vcmy );
+	printf( "%f,%f\n\n", vcmx, vcmy );*/
 	for( i=0; i<N; i++ ){
-		printf( "posizioni:\t(%f,%f)", r0x[i], r0y[i] );
-		printf( "\t velocità:\t(%f,%f)", v0x[i], v0y[i] );
+		printf( "posizioni:\t(%f,%f)", rx[i], ry[i] );
+		printf( "\t velocità:\t(%f,%f)", vx[i], vy[i] );
 		printf( "\n\n" );
 	}
-	*/
-		
+	
+	
+	/**************************************************************** DETERMINAZIONE DEI TEMPI DI COLLISIONE *********************************************************
+	******************************************************************************************************************************************************************
+	*****************************************************************************************************************************************************************/		
 	for( i=0; i<N; i++ ){
 		for( j=0; j<N; j++ ){
-			ctime = amongst_copies_search( r0x[i], r0y[i], v0x[i], v0y[j], r0x[j], r0y[j], v0x[j], v0y[j], sigma );
+			ctime = amongst_copies_search( rx[i], ry[i], vx[i], vy[j], rx[j], ry[j], vx[j], vy[j], sigma );
 			if( i==j ) Mtime[i][j] = 0;
 			else if( ctime == FLT_MAX ) Mtime[i][j] = INFINITY;
 			else Mtime[i][j] = ctime;
 		}
 	}
 	
-	/*
+	
 	printf( "\n Tabella\n -------------------------------------------\n" );
 	for( i=0; i<N; i++ ){
 		for( j=0; j<N; j++ ){
@@ -110,7 +123,7 @@ int main( void ){
 		printf( "\n" );
 	}
 	printf( "\n -------------------------------------------" );
-	*/
+	
 	
 	// determino il tempo di collisione più piccolo
 
@@ -142,48 +155,78 @@ int main( void ){
 
 	printf( "Il disco %d collide col disco %d al tempo t=%E.\n", min_place[ 0 ], min_place[ 1 ], min );
 	
+	
 	if( cfPtr == NULL ) printf(" Memoria non disponibile!\n ");
 	else{
 		fprintf( cfPtr, "\t x1\t y1\t x2\t y2 \t vx1\t vy1\t vx2\t vy2\n" );
-		fprintf( cfPtr, "\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\n", r0x[ min_place[ 0 ] ], r0y[ min_place[ 0 ] ], r0x[ min_place[ 1 ] ], r0y[ min_place[ 1 ] ], v0x[ min_place[ 0 ] ], v0y[ min_place[ 0 ] ], v0x[ min_place[ 1 ] ], v0y[ min_place[ 1 ] ] );
-		fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono:\t %f.\n",  pow( r0x[ min_place[ 0 ] ] - r0x[ min_place[ 1 ] ], 2 ) + pow(r0y[ min_place [ 0 ] ] - r0y[ min_place[ 1 ] ], 2 ) - sigma );
+		fprintf( cfPtr, "\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\n", rx[ min_place[ 0 ] ], ry[ min_place[ 0 ] ], rx[ min_place[ 1 ] ], ry[ min_place[ 1 ] ], vx[ min_place[ 0 ] ], vy[ min_place[ 0 ] ], vx[ min_place[ 1 ] ], vy[ min_place[ 1 ] ] );
+		fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono:\t %f.\n", sqrt( pow( rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ], 2 ) + pow(ry[ min_place [ 0 ] ] - ry[ min_place[ 1 ] ], 2 ) ) - sigma );
+		fprintf( cfPtr, "\n\n\n" );
 		} // chiudo else - scrittura file
 	fclose( cfPtr );
 		
 	delta_t = min;
-	for( i=0; i<N; i++ ){
-		rx[ i ] = r0x[ i ];
-		ry[ i ] = r0y[ i ];
-		vx[ i ] = v0x[ i ];
-		vy[ i ] = v0y[ i ];
-	}
 
+	/*
 	// determino la posizione della particella 2 coinvolta nell'urto
 	if( abs( rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ]) > 0.5 )
 		rx[ min_place[ 1  ] ] += floor( 0.5 +  rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ] );
-
  
 	if( abs( ry[ min_place[ 0 ] ] - ry[ min_place[ 1 ] ]) > 0.5 )
 		ry[ min_place[ 1  ] ] += floor( 0.5 +  ry[ min_place[ 0 ] ] - ry[ min_place[ 1 ] ] );
-	
+	*/
+
 	cfPtr = fopen( "data.dat", "a" );
 	if( cfPtr == NULL ) printf(" Memoria non disponibile!\n ");
-	else fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono dopo l'aggiustamento:\t %f.\n",  pow( rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ], 2 ) + pow(ry[ min_place [ 0 ] ] - ry[ min_place[ 1 ] ], 2 ) - sigma );
+	else{
+		fprintf( cfPtr, "\t x1\t y1\t x2\t y2 \t vx1\t vy1\t vx2\t vy2\n" );
+		fprintf( cfPtr, "\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\n", rx[ min_place[ 0 ] ], ry[ min_place[ 0 ] ], rx[ min_place[ 1 ] ], ry[ min_place[ 1 ] ], vx[ min_place[ 0 ] ], vy[ min_place[ 0 ] ], vx[ min_place[ 1 ] ], vy[ min_place[ 1 ] ] );
+		fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono dopo l'aggiustamento:\t %f.\n",  sqrt( pow( rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ], 2 ) + pow(ry[ min_place [ 0 ] ] - ry[ min_place[ 1 ] ], 2 ) ) - sigma );
+		fprintf( cfPtr, "\t Energia iniziale del sistema: %f.\n", energy_compute( vx, vy ) );
 
-	// evolve( rx, ry, vx, vy, delta_t );
+		fprintf( cfPtr, "\n\n\n" );
+	}
+
+	// memorizzo le posizioni delle particelle durante l'urto
 	
-	// aggiorno le velocità delle paricelle che collidono
+	for( k = 0; k < N; k++ ){
+		r0x[ k ] = rx[ k ];
+		r0y[ k ] = ry[ k ];
+	}
+
+	
+	/************************************************************* INIZIO EVOLUZIONE DEL SISTEMA *********************************************************************
+	******************************************************************************************************************************************************************
+	******************************************************************************************************************************************************************
+	*****************************************************************************************************************************************************************/
+	evolve( rx, ry, vx, vy, delta_t );
+
+	if( cfPtr == NULL ) printf(" Memoria non disponibile!\n ");
+	else{
+		fprintf( cfPtr, "\t\t--- EVOLUZIONE ---\n\n" );
+		fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:\t %f.\n",  sqrt( pow( rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ], 2 ) + pow(ry[ min_place [ 0 ] ] - ry[ min_place[ 1 ] ], 2 ) ) - sigma );
+		fprintf( cfPtr, "\t Energia iniziale del sistema: %f.\n", energy_compute( vx, vy ) );
+
+		fprintf( cfPtr, "\n\n\n" );
+	}
+
+	
+	/************************************************************* AGGIORNAMENTO DELLE VELOCITA **********************************************************************
+	******************************************************************************************************************************************************************
+	******************************************************************************************************************************************************************
+	*****************************************************************************************************************************************************************/
 	speed_refresh( rx, ry, vx, vy,  min_place[ 0 ], min_place[ 1 ] );	
 
 	if( cfPtr == NULL ) printf(" Memoria non disponibile!\n ");
 	else{
 		fprintf( cfPtr, "\t x1\t y1\t x2\t y2 \t vx1\t vy1\t vx2\t vy2\n" );
 		fprintf( cfPtr, "\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\n", rx[ min_place[ 0 ] ], ry[ min_place[ 0 ] ], rx[ min_place[ 1 ] ], ry[ min_place[ 1 ] ], vx[ min_place[ 0 ] ], vy[ min_place[ 0 ] ], vx[ min_place[ 1 ] ], vy[ min_place[ 1 ] ] );
-		fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono:\t %f.\n",  pow( rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ], 2 ) + pow(ry[ min_place [ 0 ] ] - ry[ min_place[ 1 ] ], 2 ) - sigma );
+		fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:\t %f.\n",  sqrt( pow( rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ], 2 ) + pow(ry[ min_place [ 0 ] ] - ry[ min_place[ 1 ] ], 2 ) ) - sigma );
+	
+		fprintf( cfPtr, "\t Energia finale del sistema: %f.\n", energy_compute( vx, vy ) );
 		} // chiudo else - scrittura file
 	fclose( cfPtr );
-		
-
+	
 	return 0;
 }
 
@@ -194,7 +237,7 @@ double speed_gen( void ){
 	return ( rand()/(double)RAND_MAX ) * pow( ( -1 ), ( rand() % 2 ) );
 }
 
-// determina il tempo di sollisione fra due dischi
+// determina il tempo di collisione fra due dischi
 double coll_time_search( double r1x, double r1y, double v1x, double v1y, double r2x, double r2y, double v2x, double v2y, double s ){
 	double dr_x, dr_y, dv_x, dv_y, dot_prod, sq_norm_r, sq_norm_v;
 	
@@ -258,12 +301,13 @@ double amongst_copies_search( double r1x, double r1y, double v1x, double v1y, do
 }
 
 // evoluzione del sistema
-void evolve( double rx[ N ], double ry[ N ], double vx[ N ], double vy[ N ], double delta ){
+void evolve( double rx[ N ], double ry[ N ], double v0x[ N ], double v0y[ N ], double delta ){
+	// l'evoluzione deve avvenire con le velocità precedenti all'aggiornamento: v0x, v0y velocità prima dell'aggiornamento;
 	int k; // contatore del ciclo
 
 	for( k = 0; k < N; k++ ){
-		rx[ k ] = rx[ k ] + vx[ k ] * delta;
-		ry[ k ] = ry[ k ] + vy[ k ] * delta;
+		rx[ k ] += v0x[ k ] * delta;
+		ry[ k ] += v0y[ k ] * delta;
 
 		// proietto le posizioni dentro alla scatola
 		rx[ k ] -= floor( rx[ k ] );
@@ -272,7 +316,7 @@ void evolve( double rx[ N ], double ry[ N ], double vx[ N ], double vy[ N ], dou
 }
 
 // aggiornamento delle velocità
-void speed_refresh( double rx[ N ], double ry[ N ], double vx[ N ], double vy[ N ], int p1, int p2 ){
+void speed_refresh( double rx[ N ], double ry[ N ], double vx[ N ], double vy[ N ], int p1, int p2){
 	double vers_rx, vers_ry, dot_prod, sq_norm;
 
 	// qualche calcolo preliminare	
@@ -286,4 +330,15 @@ void speed_refresh( double rx[ N ], double ry[ N ], double vx[ N ], double vy[ N
 	vy[ p1 ] -= dot_prod * vers_ry;
 	vx[ p2 ] += dot_prod * vers_rx;
 	vy[ p2 ] += dot_prod * vers_ry;
+}
+
+double energy_compute( double vx[ N ], double vy[ N ] ){
+
+	double sum=0;
+	int k;
+
+	for( k=0; k<N; k++ ){
+		sum += ( vx[ k ] * vx[ k ] + vy[ k ] * vy[ k ] );
+		return sum;
+	}
 }

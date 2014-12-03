@@ -1,7 +1,24 @@
 	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
-	 0.00	 0.90	 0.10	 0.90	 0.73	 0.70	 -0.83	 -0.05
-	 Calcolo la distanza fra le particelle che collidono:	 -0.015231.
-	 Calcolo la distanza fra le particelle che collidono dopo l'aggiustamento:	 0.010000.
+	 0.00	 0.00	 0.50	 0.00	 0.44	 -0.15	 0.50	 -0.40
+	 Calcolo la distanza fra le particelle che collidono:	 0.373843.
+
+
+
 	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
-	 0.00	 0.90	 0.10	 0.90	 -0.83	 0.70	 0.73	 -0.05
-	 Calcolo la distanza fra le particelle che collidono:	 -0.015231.
+	 0.00	 0.00	 0.50	 0.00	 0.44	 -0.15	 0.50	 -0.40
+	 Calcolo la distanza fra le particelle che collidono dopo l'aggiustamento:	 0.373843.
+	 Energia iniziale del sistema: 0.218930.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 1.005239.
+	 Energia iniziale del sistema: 0.218930.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.03	 0.97	 0.91	 0.25	 0.60	 -0.28	 0.34	 -0.27
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 1.005239.
+	 Energia finale del sistema: 0.436133.
