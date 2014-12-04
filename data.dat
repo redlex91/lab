@@ -1,24 +1,5719 @@
+
+Il disco 840 collide col disco 869 al tempo t=9.579156E-03.
 	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
-	 0.00	 0.00	 0.50	 0.00	 0.44	 -0.15	 0.50	 -0.40
-	 Calcolo la distanza fra le particelle che collidono:	 0.373843.
-
-
-
-	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
-	 0.00	 0.00	 0.50	 0.00	 0.44	 -0.15	 0.50	 -0.40
-	 Calcolo la distanza fra le particelle che collidono dopo l'aggiustamento:	 0.373843.
-	 Energia iniziale del sistema: 0.218930.
+	 0.00	 0.93	 0.97	 0.93	 -1.01	 0.51	 0.95	 0.61
+	 Calcolo la distanza fra le particelle che collidono:	 0.952099.
 
 
 
 		--- EVOLUZIONE ---
 
-	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 1.005239.
-	 Energia iniziale del sistema: 0.218930.
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
 
 
 
 	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
-	 0.03	 0.97	 0.91	 0.25	 0.60	 -0.28	 0.34	 -0.27
-	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 1.005239.
-	 Energia finale del sistema: 0.436133.
+	 0.99	 0.94	 0.98	 0.94	 0.93	 0.39	 -1.00	 0.74
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 157 collide col disco 187 al tempo t=3.746534E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.24	 0.18	 0.23	 0.19	 0.18	 0.98	 -0.16	 -0.95
+	 Calcolo la distanza fra le particelle che collidono:	 0.000674.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.24	 0.18	 0.23	 0.19	 0.60	 -0.76	 -0.58	 0.80
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 251 collide col disco 252 al tempo t=2.535527E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.38	 0.27	 0.39	 0.26	 0.89	 -0.15	 -1.01	 -0.39
+	 Calcolo la distanza fra le particelle che collidono:	 0.000047.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.38	 0.27	 0.39	 0.26	 -0.92	 0.15	 0.80	 -0.69
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 94 collide col disco 95 al tempo t=9.882594E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.14	 0.11	 0.16	 0.11	 0.88	 0.99	 -1.01	 0.75
+	 Calcolo la distanza fra le particelle che collidono:	 0.000018.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.14	 0.11	 0.16	 0.11	 -0.92	 1.29	 0.79	 0.45
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 286 collide col disco 316 al tempo t=2.171389E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.53	 0.31	 0.53	 0.32	 -0.18	 0.97	 -0.05	 -0.88
+	 Calcolo la distanza fra le particelle che collidono:	 0.000396.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.53	 0.31	 0.53	 0.32	 -0.35	 -0.85	 0.12	 0.94
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 701 collide col disco 731 al tempo t=2.849225E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.37	 0.78	 0.36	 0.79	 -0.04	 0.92	 -0.21	 -0.93
+	 Calcolo la distanza fra le particelle che collidono:	 0.000052.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.37	 0.78	 0.36	 0.79	 0.19	 -0.88	 -0.44	 0.87
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 266 collide col disco 267 al tempo t=4.404889E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.88	 0.27	 0.89	 0.27	 0.94	 -0.13	 -0.90	 -0.03
+	 Calcolo la distanza fra le particelle che collidono:	 0.000008.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.88	 0.27	 0.89	 0.27	 -0.88	 -0.26	 0.92	 0.10
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 100 collide col disco 101 al tempo t=2.088792E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.34	 0.11	 0.36	 0.10	 0.89	 0.64	 -0.96	 0.39
+	 Calcolo la distanza fra le particelle che collidono:	 0.000037.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.34	 0.11	 0.36	 0.10	 -0.86	 0.95	 0.79	 0.07
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 283 collide col disco 284 al tempo t=4.144584E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.44	 0.29	 0.46	 0.29	 0.94	 -0.49	 -0.95	 -0.90
+	 Calcolo la distanza fra le particelle che collidono:	 0.000070.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.44	 0.29	 0.46	 0.29	 -0.67	 0.00	 0.66	 -1.39
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 533 collide col disco 534 al tempo t=2.441549E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.78	 0.56	 0.79	 0.56	 0.90	 -0.93	 -0.95	 -0.50
+	 Calcolo la distanza fra le particelle che collidono:	 0.000398.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.78	 0.56	 0.79	 0.56	 -0.64	 -1.44	 0.60	 0.00
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 262 collide col disco 292 al tempo t=4.309329E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.72	 0.28	 0.73	 0.29	 -0.97	 0.93	 -0.79	 -0.79
+	 Calcolo la distanza fra le particelle che collidono:	 0.000726.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.72	 0.28	 0.72	 0.29	 -1.19	 -0.74	 -0.56	 0.87
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 823 collide col disco 824 al tempo t=1.272070E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.44	 0.89	 0.46	 0.90	 0.98	 -0.86	 -0.90	 -0.18
+	 Calcolo la distanza fra le particelle che collidono:	 0.000160.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.44	 0.89	 0.46	 0.90	 -0.09	 -1.51	 0.17	 0.47
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 23 collide col disco 893 al tempo t=6.158925E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.77	 0.99	 0.76	 0.98	 0.03	 -0.75	 -0.38	 1.00
+	 Calcolo la distanza fra le particelle che collidono:	 0.000095.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.77	 0.99	 0.76	 0.98	 0.50	 0.71	 -0.85	 -0.46
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 787 collide col disco 788 al tempo t=1.022463E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.24	 0.87	 0.26	 0.87	 0.86	 0.02	 -0.80	 0.02
+	 Calcolo la distanza fra le particelle che collidono:	 0.000170.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.24	 0.87	 0.26	 0.87	 -0.80	 0.01	 0.86	 0.03
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 255 collide col disco 285 al tempo t=1.505196E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.49	 0.28	 0.50	 0.29	 -0.79	 0.98	 -0.29	 -0.76
+	 Calcolo la distanza fra le particelle che collidono:	 0.000214.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.49	 0.28	 0.50	 0.29	 -1.34	 -0.32	 0.26	 0.54
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 459 collide col disco 460 al tempo t=6.976790E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.31	 0.50	 0.32	 0.50	 0.75	 0.17	 -0.91	 0.40
+	 Calcolo la distanza fra le particelle che collidono:	 0.000111.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.31	 0.50	 0.32	 0.50	 -0.81	 -0.11	 0.65	 0.69
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 750 collide col disco 779 al tempo t=1.510633E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.99	 0.84	 0.98	 0.84	 -0.91	 0.76	 0.75	 0.40
+	 Calcolo la distanza fra le particelle che collidono:	 0.000226.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.99	 0.84	 0.98	 0.84	 0.52	 1.18	 -0.68	 -0.02
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 736 collide col disco 737 al tempo t=2.048437E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.54	 0.80	 0.56	 0.80	 0.69	 0.10	 -0.93	 -0.03
+	 Calcolo la distanza fra le particelle che collidono:	 0.000033.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.54	 0.80	 0.56	 0.80	 -0.90	 0.25	 0.66	 -0.19
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 425 collide col disco 455 al tempo t=4.896680E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.17	 0.48	 0.17	 0.49	 0.13	 0.86	 0.52	 -0.80
+	 Calcolo la distanza fra le particelle che collidono:	 0.000072.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.17	 0.48	 0.17	 0.49	 -0.33	 -0.53	 0.97	 0.58
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 855 collide col disco 856 al tempo t=2.178101E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.51	 0.93	 0.52	 0.93	 0.87	 -0.71	 -0.78	 -0.28
+	 Calcolo la distanza fra le particelle che collidono:	 0.000305.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.51	 0.92	 0.52	 0.93	 -0.43	 -1.20	 0.52	 0.21
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 615 collide col disco 645 al tempo t=2.110437E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.50	 0.67	 0.50	 0.69	 -0.06	 0.68	 -0.16	 -0.89
+	 Calcolo la distanza fra le particelle che collidono:	 0.000003.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.50	 0.67	 0.50	 0.69	 0.08	 -0.87	 -0.30	 0.66
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 556 collide col disco 557 al tempo t=9.824785E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.54	 0.60	 0.56	 0.60	 0.90	 -0.28	 -0.67	 -0.38
+	 Calcolo la distanza fra le particelle che collidono:	 0.000152.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.54	 0.60	 0.56	 0.60	 -0.65	 -0.15	 0.88	 -0.51
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 226 collide col disco 227 al tempo t=1.202311E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.54	 0.24	 0.56	 0.24	 0.78	 0.45	 -0.82	 0.79
+	 Calcolo la distanza fra le particelle che collidono:	 0.000172.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.54	 0.24	 0.56	 0.24	 -0.59	 0.04	 0.55	 1.20
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 708 collide col disco 709 al tempo t=3.406453E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.61	 0.77	 0.62	 0.77	 0.84	 0.36	 -0.81	 -0.13
+	 Calcolo la distanza fra le particelle che collidono:	 0.000044.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.61	 0.77	 0.62	 0.77	 -0.35	 0.90	 0.37	 -0.66
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 692 collide col disco 722 al tempo t=1.519183E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.06	 0.78	 0.06	 0.79	 -0.15	 0.83	 -0.50	 -0.76
+	 Calcolo la distanza fra le particelle che collidono:	 0.000022.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.06	 0.78	 0.06	 0.79	 0.26	 -0.53	 -0.91	 0.60
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 343 collide col disco 344 al tempo t=6.405635E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.44	 0.36	 0.46	 0.36	 0.83	 -0.38	 -0.72	 -0.25
+	 Calcolo la distanza fra le particelle che collidono:	 0.000010.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.44	 0.36	 0.46	 0.36	 -0.68	 -0.54	 0.80	 -0.08
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 279 collide col disco 309 al tempo t=2.736085E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.29	 0.31	 0.30	 0.32	 -0.66	 0.84	 -0.01	 -0.86
+	 Calcolo la distanza fra le particelle che collidono:	 0.000296.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.29	 0.31	 0.30	 0.32	 -1.24	 -0.04	 0.57	 0.03
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 759 collide col disco 760 al tempo t=1.800024E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.31	 0.84	 0.32	 0.84	 0.76	 0.84	 -0.96	 0.16
+	 Calcolo la distanza fra le particelle che collidono:	 0.000018.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.31	 0.84	 0.32	 0.84	 -0.05	 1.42	 -0.15	 -0.43
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 329 collide col disco 359 al tempo t=9.386142E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.96	 0.34	 0.96	 0.35	 -0.81	 0.59	 -0.47	 -0.95
+	 Calcolo la distanza fra le particelle che collidono:	 0.000129.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.96	 0.34	 0.96	 0.35	 -1.21	 -0.72	 -0.07	 0.37
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 167 collide col disco 197 al tempo t=3.074633E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.56	 0.17	 0.56	 0.19	 -0.16	 0.61	 -0.23	 -0.84
+	 Calcolo la distanza fra le particelle che collidono:	 0.000446.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.56	 0.17	 0.56	 0.19	 -0.08	 -0.84	 -0.31	 0.60
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 3 collide col disco 4 al tempo t=6.143946E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.11	 0.00	 0.13	 0.01	 0.89	 0.17	 -0.62	 0.53
+	 Calcolo la distanza fra le particelle che collidono:	 0.000081.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.11	 0.00	 0.13	 0.01	 -0.35	 -0.26	 0.62	 0.96
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 712 collide col disco 742 al tempo t=3.054800E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.73	 0.78	 0.73	 0.79	 -0.34	 0.94	 -0.12	 -0.53
+	 Calcolo la distanza fra le particelle che collidono:	 0.000043.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.73	 0.78	 0.73	 0.79	 -0.62	 -0.42	 0.16	 0.84
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 536 collide col disco 537 al tempo t=3.389076E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.88	 0.57	 0.89	 0.57	 0.75	 0.29	 -0.73	 0.55
+	 Calcolo la distanza fra le particelle che collidono:	 0.000005.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.88	 0.57	 0.89	 0.57	 -0.59	 -0.03	 0.61	 0.87
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 752 collide col disco 783 al tempo t=1.756340E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.08	 0.84	 0.09	 0.85	 0.84	 0.84	 -0.84	 -0.98
+	 Calcolo la distanza fra le particelle che collidono:	 0.000432.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.08	 0.84	 0.09	 0.85	 -1.05	 -0.73	 1.04	 0.59
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 431 collide col disco 432 al tempo t=1.584629E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.38	 0.46	 0.39	 0.47	 0.89	 -0.52	 -0.99	 0.38
+	 Calcolo la distanza fra le particelle che collidono:	 0.000006.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.38	 0.46	 0.39	 0.47	 0.68	 -0.81	 -0.78	 0.68
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 68 collide col disco 69 al tempo t=1.862133E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.27	 0.08	 0.29	 0.07	 0.53	 0.73	 -0.90	 0.60
+	 Calcolo la distanza fra le particelle che collidono:	 0.000026.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.27	 0.08	 0.29	 0.07	 -0.87	 0.89	 0.50	 0.44
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 34 collide col disco 64 al tempo t=2.289813E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.14	 0.04	 0.14	 0.06	 0.60	 0.67	 0.86	 -0.76
+	 Calcolo la distanza fra le particelle che collidono:	 0.000304.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.14	 0.04	 0.14	 0.06	 0.27	 -0.61	 1.18	 0.53
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 7 collide col disco 8 al tempo t=5.388941E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.24	 0.01	 0.26	 0.00	 0.86	 0.59	 -0.62	 0.17
+	 Calcolo la distanza fra le particelle che collidono:	 0.000065.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.24	 0.01	 0.26	 0.00	 -0.25	 1.05	 0.48	 -0.30
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 597 collide col disco 598 al tempo t=4.900107E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.91	 0.63	 0.93	 0.63	 0.88	 -0.24	 -0.53	 -0.00
+	 Calcolo la distanza fra le particelle che collidono:	 0.000065.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.91	 0.63	 0.93	 0.63	 -0.41	 -0.53	 0.76	 0.29
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 223 collide col disco 224 al tempo t=1.093775E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.44	 0.22	 0.45	 0.23	 0.48	 -0.85	 -0.99	 -0.42
+	 Calcolo la distanza fra le particelle che collidono:	 0.000128.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.44	 0.22	 0.45	 0.23	 -0.59	 -1.32	 0.08	 0.05
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 583 collide col disco 584 al tempo t=8.743515E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.44	 0.62	 0.45	 0.62	 0.41	 -0.94	 -0.96	 -0.88
+	 Calcolo la distanza fra le particelle che collidono:	 0.000119.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.44	 0.62	 0.45	 0.62	 -0.96	 -1.00	 0.40	 -0.81
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 770 collide col disco 800 al tempo t=3.208106E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.84	 0.68	 0.85	 0.11	 0.84	 0.97	 -0.96
+	 Calcolo la distanza fra le particelle che collidono:	 0.000011.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.84	 0.68	 0.85	 -0.18	 0.64	 1.25	 -0.76
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 579 collide col disco 609 al tempo t=3.145804E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.31	 0.64	 0.31	 0.65	 0.71	 0.48	 0.84	 -0.89
+	 Calcolo la distanza fra le particelle che collidono:	 0.000042.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.31	 0.64	 0.31	 0.65	 0.55	 -0.86	 1.01	 0.44
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 821 collide col disco 851 al tempo t=1.259232E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.36	 0.91	 0.35	 0.92	 -0.28	 0.84	 -0.87	 -0.70
+	 Calcolo la distanza fra le particelle che collidono:	 0.000012.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.36	 0.91	 0.35	 0.92	 0.25	 0.06	 -1.40	 0.07
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 866 collide col disco 867 al tempo t=8.800982E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.87	 0.94	 0.89	 0.94	 0.55	 0.42	 -0.80	 0.37
+	 Calcolo la distanza fra le particelle che collidono:	 0.000119.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.87	 0.94	 0.89	 0.94	 -0.79	 0.48	 0.55	 0.30
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 84 collide col disco 85 al tempo t=1.376329E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.81	 0.07	 0.82	 0.07	 0.72	 -0.00	 -0.62	 -0.11
+	 Calcolo la distanza fra le particelle che collidono:	 0.000182.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.81	 0.07	 0.82	 0.07	 -0.59	 0.14	 0.69	 -0.26
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 460 collide col disco 490 al tempo t=2.377534E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.32	 0.51	 0.33	 0.52	 0.65	 0.69	 -0.48	 -0.87
+	 Calcolo la distanza fra le particelle che collidono:	 0.000400.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.32	 0.51	 0.33	 0.52	 0.46	 -0.98	 -0.29	 0.80
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 295 collide col disco 296 al tempo t=9.654447E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.85	 0.29	 0.86	 0.29	 0.96	 -0.58	 -0.35	 -0.53
+	 Calcolo la distanza fra le particelle che collidono:	 0.000126.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.85	 0.29	 0.86	 0.29	 -0.35	 -0.64	 0.95	 -0.47
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 300 collide col disco 330 al tempo t=7.662964E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.01	 0.35	 0.00	 0.36	 0.46	 0.81	 0.23	 -0.51
+	 Calcolo la distanza fra le particelle che collidono:	 0.000095.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.01	 0.35	 0.00	 0.36	 0.73	 -0.40	 -0.05	 0.70
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 739 collide col disco 740 al tempo t=1.370534E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.64	 0.81	 0.66	 0.81	 0.54	 0.72	 -0.75	 0.70
+	 Calcolo la distanza fra le particelle che collidono:	 0.000176.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.64	 0.81	 0.66	 0.81	 -0.75	 0.74	 0.54	 0.68
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 69 collide col disco 99 al tempo t=6.702187E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.29	 0.08	 0.30	 0.09	 0.50	 0.44	 -0.05	 -1.00
+	 Calcolo la distanza fra le particelle che collidono:	 0.000094.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.29	 0.08	 0.30	 0.09	 -0.50	 -0.54	 0.94	 -0.02
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.700413.
+
+Il disco 0 collide col disco 1 al tempo t=6.086106E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.01	 1.00	 0.03	 0.99	 0.82	 -0.16	 -0.49	 -0.42
+	 Calcolo la distanza fra le particelle che collidono:	 0.000007.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.700413.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.01	 1.00	 0.03	 0.99	 -0.34	 0.15	 0.67	 -0.73
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 687 collide col disco 688 al tempo t=1.231669E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.91	 0.74	 0.93	 0.74	 0.85	 0.14	 -0.48	 0.44
+	 Calcolo la distanza fra le particelle che collidono:	 0.000001.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.91	 0.74	 0.93	 0.74	 -0.26	 -0.22	 0.63	 0.80
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 405 collide col disco 406 al tempo t=6.839286E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.51	 0.42	 0.52	 0.43	 0.60	 -0.73	 -0.97	 -0.02
+	 Calcolo la distanza fra le particelle che collidono:	 0.000041.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.51	 0.42	 0.52	 0.43	 0.20	 -1.15	 -0.56	 0.40
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 618 collide col disco 619 al tempo t=4.979214E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.61	 0.67	 0.63	 0.67	 0.98	 -0.09	 -0.34	 0.21
+	 Calcolo la distanza fra le particelle che collidono:	 0.000058.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.61	 0.67	 0.63	 0.67	 -0.13	 -0.44	 0.77	 0.57
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 827 collide col disco 857 al tempo t=4.578281E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.57	 0.91	 0.57	 0.92	 0.54	 0.49	 0.49	 -0.77
+	 Calcolo la distanza fra le particelle che collidono:	 0.000058.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.57	 0.91	 0.57	 0.92	 0.61	 -0.77	 0.41	 0.49
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 653 collide col disco 683 al tempo t=8.396372E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.76	 0.71	 0.77	 0.72	 -0.27	 0.65	 0.30	 -0.79
+	 Calcolo la distanza fra le particelle che collidono:	 0.000071.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.76	 0.71	 0.77	 0.72	 -0.76	 -0.03	 0.79	 -0.11
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 569 collide col disco 599 al tempo t=2.018463E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.97	 0.61	 0.97	 0.63	 0.25	 0.69	 0.15	 -0.56
+	 Calcolo la distanza fra le particelle che collidono:	 0.000248.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.97	 0.61	 0.97	 0.62	 0.37	 -0.53	 0.02	 0.67
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 325 collide col disco 356 al tempo t=9.617412E-07.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.84	 0.35	 0.85	 0.36	 0.66	 0.97	 -0.94	 -0.49
+	 Calcolo la distanza fra le particelle che collidono:	 0.000002.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.84	 0.35	 0.85	 0.36	 -0.69	 -0.69	 0.41	 1.17
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 214 collide col disco 215 al tempo t=4.843238E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.14	 0.22	 0.15	 0.22	 0.43	 -0.93	 -0.89	 -0.56
+	 Calcolo la distanza fra le particelle che collidono:	 0.000052.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.14	 0.22	 0.15	 0.22	 -0.55	 -1.35	 0.09	 -0.14
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 794 collide col disco 823 al tempo t=5.872217E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.46	 0.88	 0.44	 0.88	 -0.65	 0.71	 -0.09	 -1.51
+	 Calcolo la distanza fra le particelle che collidono:	 0.000091.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.46	 0.88	 0.44	 0.88	 0.71	 -0.01	 -1.44	 -0.79
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 185 collide col disco 216 al tempo t=1.733938E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.18	 0.21	 0.19	 0.23	 0.96	 0.88	 -0.70	 -0.51
+	 Calcolo la distanza fra le particelle che collidono:	 0.000004.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.18	 0.21	 0.19	 0.23	 -0.19	 -0.85	 0.45	 1.22
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 52 collide col disco 83 al tempo t=2.373608E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.75	 0.05	 0.76	 0.06	 0.83	 0.92	 -0.61	 -0.68
+	 Calcolo la distanza fra le particelle che collidono:	 0.000050.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.75	 0.05	 0.76	 0.06	 -0.84	 -0.39	 1.05	 0.63
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 763 collide col disco 793 al tempo t=7.604358E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.44	 0.84	 0.44	 0.85	 0.47	 0.28	 0.72	 -0.98
+	 Calcolo la distanza fra le particelle che collidono:	 0.000088.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.44	 0.84	 0.44	 0.85	 0.18	 -0.84	 1.01	 0.14
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 107 collide col disco 108 al tempo t=1.830759E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.57	 0.09	 0.58	 0.10	 0.21	 -0.34	 -1.01	 -0.28
+	 Calcolo la distanza fra le particelle che collidono:	 0.000221.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.57	 0.09	 0.58	 0.10	 -1.00	 -0.41	 0.20	 -0.21
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 375 collide col disco 405 al tempo t=3.542830E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.50	 0.41	 0.51	 0.42	 0.16	 0.56	 0.20	 -1.15
+	 Calcolo la distanza fra le particelle che collidono:	 0.000053.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.50	 0.41	 0.51	 0.42	 -0.53	 -0.78	 0.88	 0.19
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 750 collide col disco 780 al tempo t=3.345147E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.99	 0.85	 1.00	 0.86	 0.52	 1.18	 -0.15	 -0.43
+	 Calcolo la distanza fra le particelle che collidono:	 0.000058.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.99	 0.85	 1.00	 0.86	 -0.23	 -0.39	 0.60	 1.15
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 140 collide col disco 170 al tempo t=2.374423E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.14	 0.66	 0.15	 0.37	 0.68	 -0.29	 -0.79
+	 Calcolo la distanza fra le particelle che collidono:	 0.000135.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.14	 0.66	 0.15	 0.76	 0.30	 -0.68	 -0.40
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 813 collide col disco 814 al tempo t=4.158099E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.11	 0.89	 0.12	 0.90	 0.70	 -0.32	 -0.74	 0.32
+	 Calcolo la distanza fra le particelle che collidono:	 0.000003.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.11	 0.89	 0.12	 0.90	 0.25	 -0.74	 -0.30	 0.74
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 812 collide col disco 842 al tempo t=1.301393E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.06	 0.90	 0.06	 0.92	 -0.18	 0.25	 -0.25	 -0.94
+	 Calcolo la distanza fra le particelle che collidono:	 0.000152.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.06	 0.90	 0.06	 0.92	 -0.08	 -0.92	 -0.35	 0.23
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 845 collide col disco 846 al tempo t=1.431684E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.18	 0.93	 0.19	 0.94	 0.89	 0.02	 -0.32	 0.27
+	 Calcolo la distanza fra le particelle che collidono:	 0.000016.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.18	 0.93	 0.19	 0.94	 -0.17	 -0.27	 0.75	 0.56
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 869 collide col disco 899 al tempo t=1.316878E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.97	 0.94	 0.96	 0.95	 -1.00	 0.74	 -0.59	 -0.91
+	 Calcolo la distanza fra le particelle che collidono:	 0.000165.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.97	 0.94	 0.96	 0.95	 0.04	 0.05	 -1.63	 -0.22
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 450 collide col disco 480 al tempo t=5.187690E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.00	 0.51	 0.00	 0.52	 0.19	 0.36	 0.19	 -0.80
+	 Calcolo la distanza fra le particelle che collidono:	 0.000060.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.00	 0.51	 0.00	 0.52	 0.18	 -0.80	 0.19	 0.36
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 10 collide col disco 881 al tempo t=6.222394E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.34	 0.98	 0.35	 0.98	 0.49	 -0.96	 -0.81	 0.61
+	 Calcolo la distanza fra le particelle che collidono:	 0.000121.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.34	 0.98	 0.35	 0.98	 -1.14	 0.10	 0.82	 -0.45
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 97 collide col disco 98 al tempo t=8.383689E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.25	 0.09	 0.26	 0.10	 0.93	 -0.41	 -0.54	 0.28
+	 Calcolo la distanza fra le particelle che collidono:	 0.000037.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.25	 0.09	 0.26	 0.10	 0.65	 -0.73	 -0.26	 0.60
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 405 collide col disco 406 al tempo t=5.303437E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.51	 0.42	 0.52	 0.43	 0.88	 0.19	 -0.56	 0.40
+	 Calcolo la distanza fra le particelle che collidono:	 0.000004.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.51	 0.42	 0.52	 0.43	 0.49	 -0.35	 -0.18	 0.94
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 777 collide col disco 807 al tempo t=2.285457E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.89	 0.85	 0.90	 0.86	 -0.42	 0.83	 0.16	 -0.54
+	 Calcolo la distanza fra le particelle che collidono:	 0.000002.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.89	 0.85	 0.90	 0.86	 -0.85	 0.32	 0.59	 -0.03
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 331 collide col disco 361 al tempo t=2.101254E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.04	 0.38	 0.04	 0.39	 0.11	 0.76	 0.45	 -0.45
+	 Calcolo la distanza fra le particelle che collidono:	 0.000021.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.04	 0.38	 0.04	 0.39	 -0.28	 -0.15	 0.83	 0.46
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 143 collide col disco 173 al tempo t=7.068349E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.78	 0.14	 0.77	 0.15	 0.60	 0.47	 -0.04	 -0.94
+	 Calcolo la distanza fra le particelle che collidono:	 0.000038.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.78	 0.14	 0.77	 0.15	 0.98	 0.09	 -0.42	 -0.57
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 868 collide col disco 899 al tempo t=1.802633E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.94	 0.94	 0.96	 0.95	 0.70	 0.58	 -1.63	 -0.22
+	 Calcolo la distanza fra le particelle che collidono:	 0.000420.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.94	 0.94	 0.96	 0.95	 -1.12	 -0.86	 0.19	 1.23
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 90 collide col disco 119 al tempo t=5.485553E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.99	 0.09	 0.98	 0.10	 -0.38	 -0.47	 0.98	 0.13
+	 Calcolo la distanza fra le particelle che collidono:	 0.000033.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.99	 0.09	 0.98	 0.10	 0.06	 -0.87	 0.54	 0.53
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 660 collide col disco 691 al tempo t=4.627092E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.01	 0.75	 0.02	 0.76	 0.79	 0.74	 -0.57	 -0.68
+	 Calcolo la distanza fra le particelle che collidono:	 0.000009.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.01	 0.75	 0.02	 0.76	 -0.67	 -0.57	 0.89	 0.62
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 884 collide col disco 885 al tempo t=6.495497E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.48	 0.95	 0.48	 0.97	 0.50	 -0.72	 -0.99	 -0.01
+	 Calcolo la distanza fra le particelle che collidono:	 0.000019.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.48	 0.95	 0.48	 0.97	 0.33	 -0.96	 -0.82	 0.22
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 861 collide col disco 862 al tempo t=1.549922E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.71	 0.94	 0.73	 0.93	 0.87	 0.13	 -0.43	 -0.41
+	 Calcolo la distanza fra le particelle che collidono:	 0.000108.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.71	 0.94	 0.73	 0.93	 0.34	 0.56	 0.11	 -0.83
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 336 collide col disco 366 al tempo t=8.651046E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.20	 0.37	 0.19	 0.38	 0.29	 0.39	 -0.34	 -0.99
+	 Calcolo la distanza fra le particelle che collidono:	 0.000041.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.20	 0.37	 0.19	 0.38	 0.64	 0.08	 -0.69	 -0.68
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 140 collide col disco 141 al tempo t=4.325308E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.14	 0.69	 0.15	 0.76	 0.30	 -0.72	 0.80
+	 Calcolo la distanza fra le particelle che collidono:	 0.000060.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.14	 0.69	 0.15	 -0.59	 0.06	 0.63	 1.04
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 858 collide col disco 887 al tempo t=5.971538E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.59	 0.95	 0.58	 0.96	 -0.79	 0.84	 0.62	 -0.46
+	 Calcolo la distanza fra le particelle che collidono:	 0.000114.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.59	 0.95	 0.58	 0.96	 0.43	 -0.62	 -0.59	 1.00
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 137 collide col disco 138 al tempo t=7.015871E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.58	 0.13	 0.59	 0.12	 0.55	 -0.33	 -0.61	 -0.65
+	 Calcolo la distanza fra le particelle che collidono:	 0.000007.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.58	 0.13	 0.59	 0.12	 -0.34	 0.02	 0.29	 -1.00
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 586 collide col disco 616 al tempo t=3.465481E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.54	 0.64	 0.54	 0.66	 0.33	 0.44	 0.39	 -0.66
+	 Calcolo la distanza fra le particelle che collidono:	 0.000038.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.54	 0.64	 0.54	 0.66	 0.25	 -0.65	 0.47	 0.43
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 418 collide col disco 419 al tempo t=6.164559E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.94	 0.43	 0.95	 0.42	 0.15	 -0.31	 -0.99	 -0.58
+	 Calcolo la distanza fra le particelle che collidono:	 0.000061.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.94	 0.43	 0.95	 0.42	 -0.80	 0.00	 -0.05	 -0.90
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 44 collide col disco 45 al tempo t=8.803020E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.48	 0.03	 0.49	 0.02	 0.64	 -0.20	 -0.68	 -0.78
+	 Calcolo la distanza fra le particelle che collidono:	 0.000050.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.48	 0.03	 0.49	 0.02	 0.23	 0.19	 -0.27	 -1.16
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 27 collide col disco 28 al tempo t=4.554220E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.91	 0.98	 0.92	 0.99	 0.41	 -0.92	 -0.83	 -0.44
+	 Calcolo la distanza fra le particelle che collidono:	 0.000034.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.91	 0.98	 0.92	 0.99	 -0.19	 -1.35	 -0.22	 -0.02
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 528 collide col disco 558 al tempo t=3.853569E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.59	 0.57	 0.59	 0.59	 -0.33	 0.42	 -0.36	 -0.66
+	 Calcolo la distanza fra le particelle che collidono:	 0.000042.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.59	 0.57	 0.59	 0.59	 -0.30	 -0.66	 -0.39	 0.42
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 131 collide col disco 132 al tempo t=7.442837E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.38	 0.14	 0.40	 0.13	 0.86	 0.36	 -0.28	 0.06
+	 Calcolo la distanza fra le particelle che collidono:	 0.000071.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.38	 0.14	 0.40	 0.13	 -0.03	 0.71	 0.61	 -0.29
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 688 collide col disco 718 al tempo t=2.359338E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.93	 0.74	 0.93	 0.76	 0.63	 0.80	 -0.23	 -0.58
+	 Calcolo la distanza fra le particelle che collidono:	 0.000034.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.93	 0.74	 0.93	 0.76	 0.51	 -0.65	 -0.10	 0.87
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 768 collide col disco 798 al tempo t=2.266625E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.60	 0.84	 0.60	 0.86	 -0.20	 0.58	 -0.21	 -0.49
+	 Calcolo la distanza fra le particelle che collidono:	 0.000024.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.60	 0.84	 0.60	 0.86	 -0.19	 -0.49	 -0.22	 0.58
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 764 collide col disco 765 al tempo t=1.577029E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.47	 0.83	 0.48	 0.83	 0.17	 -0.08	 -0.94	 -0.31
+	 Calcolo la distanza fra le particelle che collidono:	 0.000016.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.47	 0.83	 0.48	 0.83	 -0.80	 0.19	 0.03	 -0.58
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 246 collide col disco 247 al tempo t=5.932343E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.22	 0.26	 0.23	 0.26	 0.97	 -0.61	 -0.11	 -0.51
+	 Calcolo la distanza fra le particelle che collidono:	 0.000006.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.22	 0.26	 0.23	 0.26	 -0.08	 -0.74	 0.94	 -0.38
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 260 collide col disco 290 al tempo t=2.625869E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.27	 0.67	 0.28	 0.06	 0.16	 -0.08	 -0.92
+	 Calcolo la distanza fra le particelle che collidono:	 0.000028.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.27	 0.67	 0.28	 0.22	 -0.87	 -0.24	 0.11
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 10 collide col disco 880 al tempo t=1.061757E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.34	 0.98	 0.33	 0.97	 -1.14	 0.10	 -0.17	 0.39
+	 Calcolo la distanza fra le particelle che collidono:	 0.000090.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.34	 0.98	 0.33	 0.97	 -0.59	 0.75	 -0.73	 -0.25
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 271 collide col disco 301 al tempo t=1.535463E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.02	 0.31	 0.03	 0.32	 -0.91	 0.41	 -0.37	 -0.86
+	 Calcolo la distanza fra le particelle che collidono:	 0.000009.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.02	 0.31	 0.03	 0.32	 -1.30	 -0.05	 0.03	 -0.40
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 455 collide col disco 456 al tempo t=1.985876E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.18	 0.49	 0.19	 0.49	 0.97	 0.58	 -0.40	 -0.47
+	 Calcolo la distanza fra le particelle che collidono:	 0.000024.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.18	 0.49	 0.19	 0.49	 -0.21	 0.77	 0.77	 -0.66
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 694 collide col disco 695 al tempo t=7.319424E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.14	 0.75	 0.15	 0.76	 0.22	 -0.70	 -0.99	 -0.22
+	 Calcolo la distanza fra le particelle che collidono:	 0.000052.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.14	 0.75	 0.15	 0.76	 -0.35	 -1.11	 -0.42	 0.19
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 484 collide col disco 515 al tempo t=1.973996E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.15	 0.55	 0.16	 0.56	 0.90	 0.90	 -0.56	 -0.28
+	 Calcolo la distanza fra le particelle che collidono:	 0.000035.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.15	 0.55	 0.16	 0.56	 -0.03	 -0.60	 0.37	 1.23
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 818 collide col disco 819 al tempo t=5.424152E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.27	 0.91	 0.28	 0.91	 0.20	 0.73	 -0.99	 0.29
+	 Calcolo la distanza fra le particelle che collidono:	 0.000004.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.27	 0.91	 0.28	 0.91	 -0.44	 1.14	 -0.34	 -0.13
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 128 collide col disco 129 al tempo t=4.292233E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.28	 0.12	 0.30	 0.12	 0.94	 -0.73	 -0.14	 -0.55
+	 Calcolo la distanza fra le particelle che collidono:	 0.000044.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.28	 0.12	 0.30	 0.12	 -0.06	 -0.94	 0.85	 -0.34
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 553 collide col disco 554 al tempo t=5.600044E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.45	 0.59	 0.46	 0.58	 0.90	 -0.84	 -0.15	 -0.86
+	 Calcolo la distanza fra le particelle che collidono:	 0.000059.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.45	 0.59	 0.46	 0.58	 -0.15	 -0.81	 0.90	 -0.89
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 201 collide col disco 231 al tempo t=1.212026E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.70	 0.21	 0.71	 0.23	 0.15	 0.70	 0.31	 -0.36
+	 Calcolo la distanza fra le particelle che collidono:	 0.000012.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.70	 0.21	 0.71	 0.23	 -0.05	 -0.30	 0.50	 0.63
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 840 collide col disco 870 al tempo t=2.998109E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 1.00	 0.94	 0.99	 0.95	 0.93	 0.39	 -0.45	 -0.67
+	 Calcolo la distanza fra le particelle che collidono:	 0.000011.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 1.00	 0.94	 0.99	 0.95	 1.09	 0.04	 -0.61	 -0.33
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 394 collide col disco 395 al tempo t=3.195856E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.15	 0.44	 0.16	 0.45	 0.89	 0.16	 -0.40	 0.74
+	 Calcolo la distanza fra le particelle che collidono:	 0.000016.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.15	 0.44	 0.16	 0.45	 0.55	 -0.19	 -0.05	 1.09
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 547 collide col disco 548 al tempo t=7.730972E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.24	 0.60	 0.25	 0.59	 0.52	 0.09	 -0.68	 -0.40
+	 Calcolo la distanza fra le particelle che collidono:	 0.000053.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.24	 0.60	 0.25	 0.59	 -0.02	 0.49	 -0.14	 -0.80
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 483 collide col disco 512 al tempo t=6.081898E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.09	 0.54	 0.08	 0.55	 -0.59	 0.50	 0.74	 -0.73
+	 Calcolo la distanza fra le particelle che collidono:	 0.000109.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.09	 0.54	 0.08	 0.55	 0.59	 -0.86	 -0.44	 0.63
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 503 collide col disco 533 al tempo t=1.713559E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.76	 0.54	 0.77	 0.55	 -0.50	 0.42	 -0.64	 -1.44
+	 Calcolo la distanza fra le particelle che collidono:	 0.000133.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.76	 0.54	 0.77	 0.55	 -1.21	 0.16	 0.07	 -1.18
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 16 collide col disco 886 al tempo t=2.975994E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.55	 0.99	 0.55	 0.98	 0.86	 -0.56	 0.71	 0.47
+	 Calcolo la distanza fra le particelle che collidono:	 0.000293.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.55	 0.99	 0.55	 0.98	 1.04	 0.41	 0.53	 -0.50
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 131 collide col disco 162 al tempo t=6.758317E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.38	 0.14	 0.39	 0.15	 -0.03	 0.71	 -0.35	 -0.96
+	 Calcolo la distanza fra le particelle che collidono:	 0.000083.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.38	 0.14	 0.39	 0.15	 -1.03	 0.01	 0.65	 -0.27
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 797 collide col disco 798 al tempo t=8.423560E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.58	 0.86	 0.60	 0.86	 0.80	 -0.38	 -0.22	 0.58
+	 Calcolo la distanza fra le particelle che collidono:	 0.000090.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.58	 0.86	 0.60	 0.86	 -0.27	 -0.32	 0.85	 0.52
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 1 collide col disco 871 al tempo t=1.301251E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.03	 0.99	 0.03	 0.98	 0.67	 -0.73	 -0.16	 0.52
+	 Calcolo la distanza fra le particelle che collidono:	 0.000173.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.03	 0.99	 0.03	 0.98	 0.53	 0.59	 -0.02	 -0.80
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 647 collide col disco 648 al tempo t=2.458409E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.58	 0.69	 0.59	 0.69	 0.53	 -0.46	 -0.48	 -0.35
+	 Calcolo la distanza fra le particelle che collidono:	 0.000024.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.58	 0.69	 0.59	 0.69	 -0.45	 -0.59	 0.49	 -0.22
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 729 collide col disco 760 al tempo t=1.806561E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.32	 0.82	 0.32	 0.83	 0.91	 0.98	 -0.15	 -0.43
+	 Calcolo la distanza fra le particelle che collidono:	 0.000029.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.32	 0.82	 0.32	 0.83	 0.54	 -0.59	 0.21	 1.14
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 279 collide col disco 308 al tempo t=1.805731E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.28	 0.31	 0.28	 0.32	 -1.24	 -0.04	 0.79	 -0.47
+	 Calcolo la distanza fra le particelle che collidono:	 0.000001.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.28	 0.31	 0.28	 0.32	 -1.11	 -0.79	 0.66	 0.28
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 600 collide col disco 630 al tempo t=9.050429E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.01	 0.68	 0.00	 0.69	 0.45	 0.70	 0.14	 -0.36
+	 Calcolo la distanza fra le particelle che collidono:	 0.000076.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.01	 0.68	 0.00	 0.69	 0.80	 -0.07	 -0.20	 0.40
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 580 collide col disco 610 al tempo t=6.702823E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.34	 0.65	 0.34	 0.67	 0.47	 0.98	 0.26	 -0.04
+	 Calcolo la distanza fra le particelle che collidono:	 0.000062.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.34	 0.65	 0.34	 0.67	 0.72	 0.09	 0.01	 0.85
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 441 collide col disco 471 al tempo t=3.122134E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.69	 0.48	 0.69	 0.49	 -0.64	 0.54	 -0.60	 -0.44
+	 Calcolo la distanza fra le particelle che collidono:	 0.000031.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.69	 0.48	 0.69	 0.49	 -0.68	 -0.44	 -0.55	 0.54
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 542 collide col disco 571 al tempo t=7.207999E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.05	 0.61	 0.04	 0.61	 -0.92	 0.49	 0.12	 -0.98
+	 Calcolo la distanza fra le particelle che collidono:	 0.000011.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.05	 0.61	 0.04	 0.61	 0.48	 -0.08	 -1.29	 -0.42
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 469 collide col disco 500 al tempo t=4.303695E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.64	 0.51	 0.65	 0.52	 0.40	 0.62	 -0.76	 -0.65
+	 Calcolo la distanza fra le particelle che collidono:	 0.000073.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.64	 0.51	 0.65	 0.52	 -0.91	 -0.46	 0.56	 0.43
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 157 collide col disco 158 al tempo t=4.412233E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.24	 0.17	 0.25	 0.16	 0.60	 -0.76	 -0.77	 -0.33
+	 Calcolo la distanza fra le particelle che collidono:	 0.000059.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.24	 0.17	 0.25	 0.16	 -0.45	 0.07	 0.29	 -1.16
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 639 collide col disco 669 al tempo t=8.300268E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.29	 0.70	 0.29	 0.72	 -0.59	 0.03	 -0.48	 -0.96
+	 Calcolo la distanza fra le particelle che collidono:	 0.000080.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.29	 0.70	 0.29	 0.72	 -0.73	 -0.92	 -0.33	 -0.01
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 474 collide col disco 504 al tempo t=5.224089E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.79	 0.51	 0.79	 0.52	 -0.39	 0.28	 -0.61	 -0.73
+	 Calcolo la distanza fra le particelle che collidono:	 0.000047.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.79	 0.51	 0.79	 0.52	 -0.14	 -0.59	 -0.87	 0.14
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 180 collide col disco 181 al tempo t=2.346023E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.01	 0.20	 0.02	 0.20	 0.44	 0.16	 -0.54	 0.01
+	 Calcolo la distanza fra le particelle che collidono:	 0.000218.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.01	 0.20	 0.02	 0.20	 -0.47	 0.35	 0.37	 -0.17
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 651 collide col disco 652 al tempo t=2.397832E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.72	 0.71	 0.73	 0.70	 0.94	 0.66	 -0.24	 0.13
+	 Calcolo la distanza fra le particelle che collidono:	 0.000110.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.72	 0.71	 0.73	 0.70	 0.62	 0.98	 0.08	 -0.19
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 264 collide col disco 294 al tempo t=2.440232E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.80	 0.28	 0.81	 0.30	 0.14	 0.91	 0.34	 -0.07
+	 Calcolo la distanza fra le particelle che collidono:	 0.000002.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.80	 0.28	 0.81	 0.30	 -0.10	 0.05	 0.59	 0.78
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 850 collide col disco 851 al tempo t=1.772018E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.33	 0.92	 0.35	 0.92	 -0.08	 -0.44	 -1.40	 0.07
+	 Calcolo la distanza fra le particelle che collidono:	 0.000024.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.33	 0.92	 0.35	 0.92	 -1.42	 -0.37	 -0.06	 0.01
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 373 collide col disco 374 al tempo t=1.328883E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.44	 0.40	 0.45	 0.40	 0.10	 0.23	 -0.84	 0.23
+	 Calcolo la distanza fra le particelle che collidono:	 0.000126.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.44	 0.40	 0.45	 0.40	 -0.84	 0.24	 0.10	 0.23
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 867 collide col disco 897 al tempo t=2.920716E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.89	 0.94	 0.90	 0.95	 0.55	 0.30	 -0.02	 -0.70
+	 Calcolo la distanza fra le particelle che collidono:	 0.000034.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.89	 0.94	 0.90	 0.95	 -0.03	 -0.69	 0.56	 0.30
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 739 collide col disco 769 al tempo t=5.853747E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.64	 0.81	 0.63	 0.83	 -0.75	 0.74	 -0.09	 -0.27
+	 Calcolo la distanza fra le particelle che collidono:	 0.000070.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.64	 0.81	 0.63	 0.83	 -0.29	 -0.36	 -0.54	 0.83
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 780 collide col disco 781 al tempo t=8.172238E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.00	 0.86	 0.01	 0.87	 0.60	 1.15	 -1.01	 0.26
+	 Calcolo la distanza fra le particelle che collidono:	 0.000015.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.00	 0.87	 0.01	 0.87	 -1.02	 0.28	 0.61	 1.13
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 102 collide col disco 133 al tempo t=4.526410E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.42	 0.10	 0.42	 0.12	 0.75	 0.02	 -0.91	 -0.92
+	 Calcolo la distanza fra le particelle che collidono:	 0.000004.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.42	 0.10	 0.42	 0.12	 0.74	 -0.94	 -0.89	 0.05
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 697 collide col disco 698 al tempo t=4.259388E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.24	 0.77	 0.25	 0.77	 0.31	 0.36	 -0.66	 0.17
+	 Calcolo la distanza fra le particelle che collidono:	 0.000037.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.24	 0.77	 0.25	 0.77	 -0.54	 0.59	 0.19	 -0.07
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 349 collide col disco 378 al tempo t=1.998538E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.62	 0.38	 0.61	 0.38	 -0.50	 0.52	 0.48	 -0.86
+	 Calcolo la distanza fra le particelle che collidono:	 0.000286.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.62	 0.38	 0.61	 0.38	 0.82	 -0.01	 -0.84	 -0.33
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 470 collide col disco 471 al tempo t=9.999657E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.50	 0.69	 0.49	 0.35	 -0.23	 -0.55	 0.54
+	 Calcolo la distanza fra le particelle che collidono:	 0.000104.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.50	 0.69	 0.49	 -0.67	 -0.01	 0.46	 0.32
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 280 collide col disco 309 al tempo t=1.181010E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.32	 0.32	 0.30	 0.32	 -0.76	 0.85	 0.57	 0.03
+	 Calcolo la distanza fra le particelle che collidono:	 0.000002.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.32	 0.32	 0.30	 0.32	 0.67	 0.25	 -0.86	 0.62
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 424 collide col disco 425 al tempo t=4.157854E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.15	 0.46	 0.17	 0.47	 0.97	 -0.12	 -0.33	 -0.53
+	 Calcolo la distanza fra le particelle che collidono:	 0.000055.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.15	 0.46	 0.17	 0.47	 -0.13	 -0.83	 0.78	 0.19
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 383 collide col disco 414 al tempo t=4.636792E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.78	 0.42	 0.80	 0.42	 0.75	 0.81	 -0.23	 -0.54
+	 Calcolo la distanza fra le particelle che collidono:	 0.000067.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.78	 0.42	 0.80	 0.42	 -0.57	 0.24	 1.09	 0.02
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 121 collide col disco 122 al tempo t=9.239433E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.04	 0.13	 0.06	 0.13	 0.42	 -0.08	 -0.50	 -0.11
+	 Calcolo la distanza fra le particelle che collidono:	 0.000008.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.04	 0.13	 0.06	 0.13	 -0.50	 -0.03	 0.41	 -0.16
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 495 collide col disco 526 al tempo t=9.890150E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.51	 0.55	 0.52	 0.56	 0.26	 0.97	 -0.87	 -0.15
+	 Calcolo la distanza fra le particelle che collidono:	 0.000157.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.51	 0.55	 0.52	 0.56	 -0.86	 -0.16	 0.25	 0.98
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 166 collide col disco 196 al tempo t=2.893636E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.54	 0.19	 0.54	 0.20	 0.49	 0.98	 0.37	 0.06
+	 Calcolo la distanza fra le particelle che collidono:	 0.000026.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.54	 0.19	 0.54	 0.20	 0.64	 0.11	 0.22	 0.94
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 677 collide col disco 678 al tempo t=1.883169E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.57	 0.74	 0.58	 0.73	 0.29	 0.45	 -0.94	 -0.13
+	 Calcolo la distanza fra le particelle che collidono:	 0.000004.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.57	 0.74	 0.58	 0.73	 0.17	 0.62	 -0.82	 -0.30
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 304 collide col disco 333 al tempo t=8.736774E-07.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.12	 0.34	 0.11	 0.35	 -0.79	 0.18	 0.61	 -0.77
+	 Calcolo la distanza fra le particelle che collidono:	 0.000001.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.12	 0.34	 0.11	 0.35	 -0.38	 -1.09	 0.20	 0.50
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 473 collide col disco 502 al tempo t=2.629211E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.75	 0.52	 0.74	 0.53	 -0.96	 0.87	 0.22	 -0.20
+	 Calcolo la distanza fra le particelle che collidono:	 0.000041.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.75	 0.52	 0.74	 0.53	 0.04	 -0.35	 -0.78	 1.01
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 334 collide col disco 364 al tempo t=5.784467E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.15	 0.37	 0.14	 0.39	 0.68	 0.38	 0.19	 -0.72
+	 Calcolo la distanza fra le particelle che collidono:	 0.000027.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.15	 0.37	 0.14	 0.39	 1.00	 0.05	 -0.13	 -0.38
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 562 collide col disco 563 al tempo t=2.708875E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.73	 0.58	 0.75	 0.58	 0.07	 -0.88	 -0.85	 -0.95
+	 Calcolo la distanza fra le particelle che collidono:	 0.000024.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.73	 0.58	 0.75	 0.58	 -0.83	 -0.79	 0.05	 -1.04
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 222 collide col disco 252 al tempo t=1.311246E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.39	 0.24	 0.40	 0.26	 -0.39	 0.44	 0.80	 -0.69
+	 Calcolo la distanza fra le particelle che collidono:	 0.000006.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.39	 0.24	 0.40	 0.26	 -0.61	 0.02	 1.01	 -0.28
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 147 collide col disco 176 al tempo t=3.927286E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.89	 0.15	 0.88	 0.15	 -0.37	 0.92	 0.54	 -0.62
+	 Calcolo la distanza fra le particelle che collidono:	 0.000042.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.89	 0.15	 0.88	 0.15	 0.69	 0.81	 -0.51	 -0.51
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 770 collide col disco 799 al tempo t=1.124242E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.85	 0.65	 0.85	 -0.18	 0.64	 0.93	 -0.66
+	 Calcolo la distanza fra le particelle che collidono:	 0.000157.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.85	 0.65	 0.85	 1.17	 0.29	 -0.42	 -0.31
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 255 collide col disco 284 al tempo t=1.997370E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.48	 0.27	 0.46	 0.28	 -1.34	 -0.32	 0.66	 -1.39
+	 Calcolo la distanza fra le particelle che collidono:	 0.000042.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.48	 0.27	 0.46	 0.28	 0.74	 -0.50	 -1.41	 -1.21
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 617 collide col disco 647 al tempo t=7.614082E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.58	 0.68	 0.58	 0.69	 0.73	 0.49	 -0.45	 -0.59
+	 Calcolo la distanza fra le particelle che collidono:	 0.000036.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.58	 0.68	 0.58	 0.69	 0.93	 0.07	 -0.65	 -0.17
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 345 collide col disco 376 al tempo t=6.513204E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.52	 0.38	 0.52	 0.40	 0.73	 0.82	 -0.56	 -0.14
+	 Calcolo la distanza fra le particelle che collidono:	 0.000092.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.52	 0.38	 0.52	 0.40	 0.13	 -0.47	 0.04	 1.14
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 140 collide col disco 170 al tempo t=2.027945E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.14	 0.66	 0.15	 -0.59	 0.06	 -0.68	 -0.40
+	 Calcolo la distanza fra le particelle che collidono:	 0.000000.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.14	 0.66	 0.15	 -0.46	 -0.02	 -0.82	 -0.32
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 139 collide col disco 170 al tempo t=5.026935E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.64	 0.15	 0.66	 0.15	 0.50	 0.92	 -0.82	 -0.32
+	 Calcolo la distanza fra le particelle che collidono:	 0.000064.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.64	 0.15	 0.66	 0.15	 -0.77	 0.96	 0.46	 -0.37
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 140 collide col disco 170 al tempo t=8.319780E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.14	 0.66	 0.15	 -0.46	 -0.02	 0.46	 -0.37
+	 Calcolo la distanza fra le particelle che collidono:	 0.000008.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.14	 0.66	 0.15	 0.37	 -0.52	 -0.37	 0.13
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 146 collide col disco 175 al tempo t=6.434118E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.85	 0.15	 0.85	 0.16	 -0.63	 0.79	 0.73	 -0.14
+	 Calcolo la distanza fra le particelle che collidono:	 0.000009.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.85	 0.15	 0.85	 0.16	 -0.19	 -0.46	 0.29	 1.11
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 664 collide col disco 694 al tempo t=3.221847E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.13	 0.74	 0.14	 0.75	 -0.20	 0.20	 -0.35	 -1.11
+	 Calcolo la distanza fra le particelle che collidono:	 0.000040.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.13	 0.74	 0.14	 0.75	 -0.79	 -0.87	 0.24	 -0.04
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 131 collide col disco 161 al tempo t=1.193920E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.38	 0.14	 0.37	 0.15	 -1.03	 0.01	 0.03	 -0.83
+	 Calcolo la distanza fra le particelle che collidono:	 0.000016.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.38	 0.14	 0.37	 0.15	 0.06	 -0.79	 -1.06	 -0.03
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 94 collide col disco 124 al tempo t=1.149589E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.13	 0.12	 0.12	 0.13	 -0.92	 1.29	 -0.59	 0.02
+	 Calcolo la distanza fra le particelle che collidono:	 0.000012.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.13	 0.12	 0.12	 0.13	 -0.10	 0.58	 -1.41	 0.74
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 91 collide col disco 122 al tempo t=5.891363E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.05	 0.12	 0.06	 0.13	 0.85	 0.82	 0.41	 -0.16
+	 Calcolo la distanza fra le particelle che collidono:	 0.000063.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.05	 0.12	 0.06	 0.13	 0.45	 -0.18	 0.81	 0.83
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 395 collide col disco 424 al tempo t=1.679264E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.16	 0.45	 0.15	 0.46	 -0.05	 1.09	 -0.13	 -0.83
+	 Calcolo la distanza fra le particelle che collidono:	 0.000286.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.16	 0.45	 0.15	 0.46	 0.68	 -0.44	 -0.87	 0.70
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 575 collide col disco 606 al tempo t=3.459262E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.18	 0.64	 0.18	 0.65	 0.39	 0.36	 -0.88	 -0.58
+	 Calcolo la distanza fra le particelle che collidono:	 0.000048.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.18	 0.64	 0.18	 0.65	 -0.18	 -0.90	 -0.31	 0.68
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 367 collide col disco 398 al tempo t=2.165918E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.25	 0.42	 0.26	 0.43	 0.90	 0.90	 -0.09	 -0.28
+	 Calcolo la distanza fra le particelle che collidono:	 0.000032.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.25	 0.42	 0.26	 0.43	 -0.33	 0.08	 1.14	 0.53
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 531 collide col disco 562 al tempo t=4.620567E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.72	 0.58	 0.73	 0.58	 0.91	 0.68	 -0.83	 -0.79
+	 Calcolo la distanza fra le particelle che collidono:	 0.000080.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.72	 0.58	 0.73	 0.58	 -0.82	 0.69	 0.90	 -0.80
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 864 collide col disco 894 al tempo t=3.267367E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.79	 0.95	 0.80	 0.96	 -0.35	 0.58	 0.15	 -0.51
+	 Calcolo la distanza fra le particelle che collidono:	 0.000012.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.79	 0.95	 0.80	 0.96	 -0.62	 0.32	 0.43	 -0.26
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 679 collide col disco 709 al tempo t=1.455838E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.64	 0.75	 0.63	 0.76	 0.29	 0.85	 0.37	 -0.66
+	 Calcolo la distanza fra le particelle che collidono:	 0.000012.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.64	 0.75	 0.63	 0.76	 1.01	 0.42	 -0.35	 -0.24
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 612 collide col disco 641 al tempo t=5.003411E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.38	 0.67	 0.38	 0.69	 -0.79	 0.29	 0.54	 -0.62
+	 Calcolo la distanza fra le particelle che collidono:	 0.000065.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.38	 0.67	 0.38	 0.69	 -0.37	 -0.93	 0.11	 0.60
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 251 collide col disco 281 al tempo t=4.994505E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.36	 0.27	 0.36	 0.28	 -0.92	 0.15	 -0.10	 -0.85
+	 Calcolo la distanza fra le particelle che collidono:	 0.000052.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.36	 0.27	 0.36	 0.28	 -0.89	 -0.88	 -0.13	 0.18
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 268 collide col disco 269 al tempo t=4.777810E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.94	 0.26	 0.96	 0.27	 0.46	 -0.18	 -0.46	 0.06
+	 Calcolo la distanza fra le particelle che collidono:	 0.000036.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.94	 0.26	 0.96	 0.27	 -0.25	 -0.46	 0.25	 0.34
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 29 collide col disco 58 al tempo t=1.273752E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.96	 0.02	 0.95	 0.03	 -0.46	 0.71	 0.61	 -0.35
+	 Calcolo la distanza fra le particelle che collidono:	 0.000019.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.96	 0.02	 0.95	 0.03	 0.59	 -0.37	 -0.44	 0.73
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 165 collide col disco 195 al tempo t=1.155384E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.49	 0.19	 0.49	 0.20	 -0.67	 0.89	 -0.69	 0.03
+	 Calcolo la distanza fra le particelle che collidono:	 0.000100.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.49	 0.19	 0.49	 0.20	 -0.66	 0.03	 -0.71	 0.89
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 404 collide col disco 434 al tempo t=7.045181E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.47	 0.45	 0.48	 0.46	 0.30	 0.79	 0.39	 -0.08
+	 Calcolo la distanza fra le particelle che collidono:	 0.000060.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.47	 0.45	 0.48	 0.46	 0.18	 -0.05	 0.50	 0.76
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 728 collide col disco 758 al tempo t=2.402654E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.27	 0.81	 0.27	 0.82	 0.10	 0.42	 0.36	 -0.48
+	 Calcolo la distanza fra le particelle che collidono:	 0.000177.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.27	 0.81	 0.27	 0.82	 -0.18	 -0.26	 0.64	 0.19
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 68 collide col disco 97 al tempo t=1.670251E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.27	 0.08	 0.25	 0.09	 -0.87	 0.89	 0.65	 -0.73
+	 Calcolo la distanza fra le particelle che collidono:	 0.000033.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.27	 0.08	 0.25	 0.09	 1.00	 0.21	 -1.21	 -0.06
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 410 collide col disco 411 al tempo t=6.686219E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.69	 0.42	 0.70	 0.43	 0.88	 -0.51	 -0.07	 -0.16
+	 Calcolo la distanza fra le particelle che collidono:	 0.000041.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.69	 0.42	 0.70	 0.43	 0.36	 -0.84	 0.45	 0.17
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 562 collide col disco 563 al tempo t=1.412075E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.73	 0.58	 0.75	 0.58	 0.90	 -0.80	 0.05	 -1.04
+	 Calcolo la distanza fra le particelle che collidono:	 0.000115.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.73	 0.58	 0.75	 0.58	 0.09	 -0.70	 0.86	 -1.14
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 774 collide col disco 805 al tempo t=1.298130E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.81	 0.84	 0.81	 0.86	 0.23	 0.40	 -1.01	 -0.49
+	 Calcolo la distanza fra le particelle che collidono:	 0.000168.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.81	 0.84	 0.81	 0.86	 -0.27	 -0.80	 -0.51	 0.71
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 465 collide col disco 494 al tempo t=1.876197E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.49	 0.52	 0.48	 0.53	 -0.64	 0.82	 0.56	 -0.07
+	 Calcolo la distanza fra le particelle che collidono:	 0.000247.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.49	 0.52	 0.48	 0.53	 -0.08	 -0.37	 0.00	 1.12
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 18 collide col disco 887 al tempo t=8.051497E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.58	 0.98	 0.57	 0.96	 -0.90	 -0.97	 -0.59	 1.00
+	 Calcolo la distanza fra le particelle che collidono:	 0.000156.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.58	 0.98	 0.57	 0.96	 -0.13	 0.81	 -1.35	 -0.78
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 754 collide col disco 755 al tempo t=1.359611E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.14	 0.82	 0.15	 0.82	 0.20	 -0.65	 -0.64	 -0.78
+	 Calcolo la distanza fra le particelle che collidono:	 0.000107.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.14	 0.82	 0.15	 0.82	 -0.57	 -0.48	 0.13	 -0.95
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 260 collide col disco 261 al tempo t=3.531085E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.26	 0.68	 0.26	 0.22	 -0.87	 -0.80	 -0.38
+	 Calcolo la distanza fra le particelle che collidono:	 0.000040.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.26	 0.68	 0.26	 -0.78	 -0.35	 0.21	 -0.90
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 202 collide col disco 231 al tempo t=2.059754E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.72	 0.22	 0.71	 0.23	 -0.65	 0.86	 0.50	 0.63
+	 Calcolo la distanza fra le particelle che collidono:	 0.000201.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.72	 0.22	 0.71	 0.23	 0.04	 0.17	 -0.19	 1.32
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 767 collide col disco 797 al tempo t=4.646730E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.57	 0.85	 0.58	 0.86	 0.03	 0.78	 -0.27	 -0.32
+	 Calcolo la distanza fra le particelle che collidono:	 0.000036.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.57	 0.85	 0.58	 0.86	 -0.65	 0.43	 0.42	 0.04
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 75 collide col disco 104 al tempo t=9.447412E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.49	 0.07	 0.48	 0.08	 -0.40	 0.02	 0.59	 -0.98
+	 Calcolo la distanza fra le particelle che collidono:	 0.000133.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.49	 0.07	 0.48	 0.08	 0.61	 -0.96	 -0.42	 -0.00
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 827 collide col disco 828 al tempo t=8.691249E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.58	 0.90	 0.59	 0.89	 0.61	 -0.77	 -0.45	 -0.44
+	 Calcolo la distanza fra le particelle che collidono:	 0.000083.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.58	 0.90	 0.59	 0.89	 -0.01	 -0.05	 0.18	 -1.15
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 654 collide col disco 683 al tempo t=1.833505E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.79	 0.71	 0.78	 0.72	 -0.42	 0.56	 0.79	 -0.11
+	 Calcolo la distanza fra le particelle che collidono:	 0.000025.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.79	 0.71	 0.78	 0.72	 0.76	 -0.16	 -0.39	 0.61
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 727 collide col disco 728 al tempo t=3.387179E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.25	 0.81	 0.27	 0.81	 0.91	 0.54	 -0.18	 -0.26
+	 Calcolo la distanza fra le particelle che collidono:	 0.000029.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.25	 0.81	 0.27	 0.81	 0.08	 0.75	 0.65	 -0.47
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 37 collide col disco 66 al tempo t=3.826507E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.22	 0.05	 0.21	 0.06	 -0.71	 0.53	 0.25	 -0.48
+	 Calcolo la distanza fra le particelle che collidono:	 0.000053.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.22	 0.05	 0.21	 0.06	 0.32	 -0.40	 -0.79	 0.45
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 398 collide col disco 399 al tempo t=3.503313E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.27	 0.43	 0.28	 0.43	 1.14	 0.53	 -0.81	 -0.03
+	 Calcolo la distanza fra le particelle che collidono:	 0.000071.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.27	 0.43	 0.28	 0.43	 -0.80	 -0.08	 1.13	 0.59
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 847 collide col disco 876 al tempo t=3.452672E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.23	 0.94	 0.22	 0.95	 -0.32	 0.33	 0.80	 -0.55
+	 Calcolo la distanza fra le particelle che collidono:	 0.000045.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.23	 0.94	 0.22	 0.95	 0.30	 -0.82	 0.18	 0.60
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 653 collide col disco 682 al tempo t=2.896999E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.76	 0.71	 0.75	 0.72	 -0.76	 -0.03	 0.51	 -0.60
+	 Calcolo la distanza fra le particelle che collidono:	 0.000004.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.76	 0.71	 0.75	 0.72	 0.22	 -0.92	 -0.47	 0.29
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 674 collide col disco 703 al tempo t=4.788230E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.45	 0.75	 0.44	 0.77	 -0.58	 0.88	 0.44	 -0.06
+	 Calcolo la distanza fra le particelle che collidono:	 0.000066.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.45	 0.75	 0.44	 0.77	 0.29	 -0.19	 -0.43	 1.00
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 724 collide col disco 725 al tempo t=7.214782E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.15	 0.79	 0.16	 0.80	 0.50	 -0.33	 -0.35	 -0.08
+	 Calcolo la distanza fra le particelle che collidono:	 0.000005.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.15	 0.79	 0.16	 0.80	 -0.12	 -0.60	 0.27	 0.19
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 801 collide col disco 831 al tempo t=9.727616E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.68	 0.87	 0.69	 0.88	 -0.73	 0.06	 -0.51	 -0.78
+	 Calcolo la distanza fra le particelle che collidono:	 0.000069.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.68	 0.87	 0.69	 0.88	 -0.98	 -0.60	 -0.27	 -0.12
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 40 collide col disco 70 al tempo t=3.753651E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.34	 0.05	 0.33	 0.06	 0.10	 0.79	 -0.27	 -0.12
+	 Calcolo la distanza fra le particelle che collidono:	 0.000020.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.34	 0.05	 0.33	 0.06	 0.40	 0.37	 -0.57	 0.30
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 861 collide col disco 892 al tempo t=3.131515E-07.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.72	 0.94	 0.71	 0.95	 0.34	 0.56	 -0.89	 -0.57
+	 Calcolo la distanza fra le particelle che collidono:	 0.000000.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.72	 0.94	 0.71	 0.95	 0.55	 -0.06	 -1.11	 0.05
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 551 collide col disco 552 al tempo t=4.313757E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.39	 0.60	 0.40	 0.60	 0.91	 -0.10	 0.07	 0.13
+	 Calcolo la distanza fra le particelle che collidono:	 0.000030.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.39	 0.60	 0.40	 0.60	 0.26	 -0.35	 0.71	 0.39
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 501 collide col disco 502 al tempo t=2.794336E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.72	 0.53	 0.74	 0.53	 0.94	 -0.32	 -0.78	 1.01
+	 Calcolo la distanza fra le particelle che collidono:	 0.000026.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.72	 0.53	 0.74	 0.53	 0.13	 -0.74	 0.04	 1.43
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 391 collide col disco 421 al tempo t=5.829082E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.03	 0.46	 0.04	 0.46	 -0.28	 0.95	 0.21	 -0.08
+	 Calcolo la distanza fra le particelle che collidono:	 0.000014.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.03	 0.46	 0.04	 0.46	 -0.46	 0.81	 0.40	 0.06
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 735 collide col disco 766 al tempo t=6.421470E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.51	 0.81	 0.52	 0.82	 0.63	 0.26	 -0.39	 -0.67
+	 Calcolo la distanza fra le particelle che collidono:	 0.000009.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.51	 0.81	 0.52	 0.82	 -0.24	 -0.78	 0.48	 0.38
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 372 collide col disco 373 al tempo t=2.165423E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.42	 0.42	 0.43	 0.41	 0.89	 0.64	 -0.84	 0.24
+	 Calcolo la distanza fra le particelle che collidono:	 0.000022.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.42	 0.42	 0.43	 0.41	 0.14	 1.32	 -0.08	 -0.44
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 634 collide col disco 635 al tempo t=1.244876E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.15	 0.71	 0.16	 0.72	 0.51	 0.47	 -0.46	 0.91
+	 Calcolo la distanza fra le particelle che collidono:	 0.000044.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.15	 0.71	 0.16	 0.72	 0.26	 0.21	 -0.22	 1.16
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 59 collide col disco 89 al tempo t=1.320032E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.98	 0.03	 0.97	 0.05	 0.47	 -0.07	 0.32	 -0.88
+	 Calcolo la distanza fra le particelle che collidono:	 0.000010.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.98	 0.03	 0.97	 0.05	 0.65	 -0.79	 0.14	 -0.16
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 42 collide col disco 71 al tempo t=1.004201E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.38	 0.04	 0.37	 0.05	 -0.97	 0.35	 -0.03	 -0.64
+	 Calcolo la distanza fra le particelle che collidono:	 0.000014.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.38	 0.04	 0.37	 0.05	 0.04	 -0.56	 -1.04	 0.27
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 53 collide col disco 54 al tempo t=3.942724E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.77	 0.03	 0.78	 0.03	 0.12	 -0.11	 -0.70	 -0.31
+	 Calcolo la distanza fra le particelle che collidono:	 0.000028.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.77	 0.03	 0.78	 0.03	 -0.54	 0.13	 -0.04	 -0.55
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 337 collide col disco 338 al tempo t=6.251022E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.24	 0.36	 0.26	 0.36	 0.41	 -0.29	 -0.38	 -0.17
+	 Calcolo la distanza fra le particelle che collidono:	 0.000047.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.24	 0.36	 0.26	 0.36	 -0.32	 -0.43	 0.36	 -0.02
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 736 collide col disco 766 al tempo t=3.098792E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.53	 0.80	 0.52	 0.82	 -0.90	 0.25	 0.48	 0.38
+	 Calcolo la distanza fra le particelle che collidono:	 0.000001.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.53	 0.80	 0.52	 0.82	 -0.73	 -0.15	 0.31	 0.78
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 319 collide col disco 348 al tempo t=1.293549E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.62	 0.35	 0.61	 0.35	 -0.41	 0.80	 0.37	 -0.55
+	 Calcolo la distanza fra le particelle che collidono:	 0.000011.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.62	 0.35	 0.61	 0.35	 0.45	 0.76	 -0.48	 -0.50
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 427 collide col disco 457 al tempo t=1.878410E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.25	 0.48	 0.24	 0.50	 0.64	 0.70	 0.42	 -0.12
+	 Calcolo la distanza fra le particelle che collidono:	 0.000013.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.25	 0.48	 0.24	 0.50	 0.88	 0.07	 0.17	 0.52
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 784 collide col disco 785 al tempo t=1.166643E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.15	 0.87	 0.16	 0.88	 0.69	 0.12	 -0.40	 0.65
+	 Calcolo la distanza fra le particelle che collidono:	 0.000007.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.15	 0.87	 0.16	 0.88	 0.67	 0.07	 -0.37	 0.69
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 645 collide col disco 675 al tempo t=4.166404E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.49	 0.70	 0.50	 0.71	 -0.30	 0.66	 -0.19	 -0.88
+	 Calcolo la distanza fra le particelle che collidono:	 0.000064.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.49	 0.70	 0.50	 0.71	 -0.40	 -0.86	 -0.09	 0.65
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 51 collide col disco 82 al tempo t=4.707079E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.72	 0.03	 0.72	 0.04	 0.88	 -0.20	 -0.39	 -0.98
+	 Calcolo la distanza fra le particelle che collidono:	 0.000046.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.72	 0.03	 0.72	 0.04	 0.71	 -1.17	 -0.23	 -0.01
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 52 collide col disco 82 al tempo t=3.433101E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.74	 0.04	 0.72	 0.04	 -0.84	 -0.39	 -0.23	 -0.01
+	 Calcolo la distanza fra le particelle che collidono:	 0.000002.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.74	 0.04	 0.72	 0.04	 -0.20	 -0.35	 -0.86	 -0.05
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 274 collide col disco 305 al tempo t=1.897461E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.13	 0.30	 0.14	 0.31	 0.01	 0.04	 -0.90	 -0.94
+	 Calcolo la distanza fra le particelle che collidono:	 0.000251.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.13	 0.30	 0.14	 0.31	 -0.99	 -0.83	 0.10	 -0.07
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 331 collide col disco 360 al tempo t=6.829077E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.03	 0.38	 0.02	 0.39	 -0.28	 -0.15	 0.87	 -0.53
+	 Calcolo la distanza fra le particelle che collidono:	 0.000077.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.03	 0.38	 0.02	 0.39	 0.60	 -0.86	 -0.00	 0.18
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 619 collide col disco 620 al tempo t=6.203188E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.64	 0.68	 0.65	 0.68	 0.77	 0.57	 -0.65	 0.37
+	 Calcolo la distanza fra le particelle che collidono:	 0.000089.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.64	 0.68	 0.65	 0.68	 -0.66	 0.52	 0.78	 0.42
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 137 collide col disco 168 al tempo t=2.155621E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.57	 0.13	 0.58	 0.14	 -0.34	 0.02	 -0.94	 -0.99
+	 Calcolo la distanza fra le particelle che collidono:	 0.000242.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.57	 0.13	 0.58	 0.14	 -0.60	 -1.07	 -0.68	 0.10
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 757 collide col disco 787 al tempo t=1.873562E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.23	 0.85	 0.23	 0.87	 -0.14	 0.77	 -0.80	 0.01
+	 Calcolo la distanza fra le particelle che collidono:	 0.000159.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.23	 0.85	 0.23	 0.87	 -0.26	 -0.07	 -0.68	 0.85
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 308 collide col disco 309 al tempo t=8.092524E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.29	 0.33	 0.30	 0.33	 0.66	 0.28	 -0.86	 0.62
+	 Calcolo la distanza fra le particelle che collidono:	 0.000124.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.29	 0.33	 0.30	 0.33	 -0.87	 0.33	 0.67	 0.57
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 48 collide col disco 49 al tempo t=1.190483E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.62	 0.05	 0.63	 0.05	 0.78	 0.83	 0.03	 0.78
+	 Calcolo la distanza fra le particelle che collidono:	 0.000009.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.62	 0.05	 0.63	 0.05	 0.04	 0.89	 0.77	 0.72
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 265 collide col disco 266 al tempo t=1.070507E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.85	 0.27	 0.86	 0.26	 0.66	 0.04	 -0.88	 -0.26
+	 Calcolo la distanza fra le particelle che collidono:	 0.000135.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.85	 0.27	 0.86	 0.26	 -0.48	 0.58	 0.26	 -0.80
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 32 collide col disco 62 al tempo t=3.909563E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.07	 0.03	 0.08	 0.04	 0.14	 -0.13	 0.38	 -0.92
+	 Calcolo la distanza fra le particelle che collidono:	 0.000024.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.07	 0.03	 0.08	 0.04	 -0.12	 -0.70	 0.64	 -0.35
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 357 collide col disco 358 al tempo t=2.678250E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.91	 0.37	 0.93	 0.37	 0.51	 -0.04	 -0.23	 -0.00
+	 Calcolo la distanza fra le particelle che collidono:	 0.000020.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.91	 0.37	 0.93	 0.37	 -0.22	 -0.09	 0.51	 0.04
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 849 collide col disco 850 al tempo t=2.359978E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.31	 0.93	 0.32	 0.92	 0.37	 -0.27	 -1.42	 -0.37
+	 Calcolo la distanza fra le particelle che collidono:	 0.000402.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.31	 0.93	 0.32	 0.92	 -1.27	 0.18	 0.22	 -0.82
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 543 collide col disco 544 al tempo t=3.196657E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.11	 0.60	 0.13	 0.60	 0.53	 -0.12	 -0.27	 0.14
+	 Calcolo la distanza fra le particelle che collidono:	 0.000019.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.11	 0.60	 0.13	 0.60	 0.02	 -0.40	 0.25	 0.41
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 701 collide col disco 702 al tempo t=7.683786E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.37	 0.76	 0.38	 0.76	 0.19	 -0.88	 -0.67	 -0.37
+	 Calcolo la distanza fra le particelle che collidono:	 0.000008.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.37	 0.76	 0.38	 0.76	 -0.73	 -0.51	 0.25	 -0.73
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 453 collide col disco 483 al tempo t=3.160120E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.08	 0.53	 0.09	 0.54	 -0.63	 0.99	 0.59	 -0.86
+	 Calcolo la distanza fra le particelle che collidono:	 0.000016.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.08	 0.53	 0.09	 0.54	 -0.98	 0.61	 0.94	 -0.48
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 735 collide col disco 736 al tempo t=4.376445E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.51	 0.80	 0.53	 0.80	 -0.24	 -0.78	 -0.73	 -0.15
+	 Calcolo la distanza fra le particelle che collidono:	 0.000023.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.51	 0.80	 0.53	 0.80	 -0.76	 -0.76	 -0.21	 -0.17
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 372 collide col disco 402 al tempo t=9.641257E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.42	 0.42	 0.42	 0.43	 0.14	 1.32	 0.81	 -0.04
+	 Calcolo la distanza fra le particelle che collidono:	 0.000134.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.42	 0.42	 0.42	 0.43	 0.21	 -0.07	 0.73	 1.35
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 392 collide col disco 421 al tempo t=2.867490E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.05	 0.45	 0.04	 0.46	 -0.71	 0.79	 0.40	 0.06
+	 Calcolo la distanza fra le particelle che collidono:	 0.000036.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.05	 0.45	 0.04	 0.46	 0.10	 -0.19	 -0.41	 1.03
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 80 collide col disco 110 al tempo t=5.091468E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.07	 0.67	 0.08	 0.28	 0.21	 -0.05	 -0.63
+	 Calcolo la distanza fra le particelle che collidono:	 0.000002.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.07	 0.67	 0.08	 0.57	 -0.16	 -0.34	 -0.25
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 502 collide col disco 503 al tempo t=4.491440E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.74	 0.54	 0.75	 0.54	 0.04	 1.43	 -1.21	 0.16
+	 Calcolo la distanza fra le particelle che collidono:	 0.000077.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.74	 0.54	 0.75	 0.54	 -1.47	 0.63	 0.29	 0.96
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 477 collide col disco 478 al tempo t=4.357259E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.90	 0.49	 0.91	 0.48	 0.03	 -0.43	 -0.73	 -0.63
+	 Calcolo la distanza fra le particelle che collidono:	 0.000003.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.90	 0.49	 0.91	 0.48	 -0.57	 -0.21	 -0.12	 -0.85
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 316 collide col disco 347 al tempo t=4.973687E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.53	 0.34	 0.54	 0.35	 0.12	 0.94	 -0.94	 -0.59
+	 Calcolo la distanza fra le particelle che collidono:	 0.000092.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.53	 0.34	 0.54	 0.35	 -0.87	 -0.63	 0.05	 0.98
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 706 collide col disco 707 al tempo t=1.315752E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.53	 0.78	 0.55	 0.78	 0.06	 0.58	 -0.70	 0.38
+	 Calcolo la distanza fra le particelle che collidono:	 0.000084.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.53	 0.78	 0.55	 0.78	 -0.53	 0.81	 -0.11	 0.15
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 876 collide col disco 877 al tempo t=1.063200E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.22	 0.96	 0.23	 0.96	 0.18	 0.60	 -0.05	 -0.16
+	 Calcolo la distanza fra le particelle che collidono:	 0.000061.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.22	 0.96	 0.23	 0.96	 -0.32	 0.33	 0.45	 0.12
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 397 collide col disco 398 al tempo t=6.300428E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.25	 0.44	 0.26	 0.43	 0.75	 0.12	 -0.80	 -0.08
+	 Calcolo la distanza fra le particelle che collidono:	 0.000007.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.25	 0.44	 0.26	 0.43	 -0.19	 0.78	 0.15	 -0.74
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 230 collide col disco 261 al tempo t=4.771462E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.68	 0.24	 0.68	 0.26	 0.68	 0.26	 0.21	 -0.90
+	 Calcolo la distanza fra le particelle che collidono:	 0.000520.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.68	 0.24	 0.68	 0.25	 0.83	 -0.81	 0.06	 0.17
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 773 collide col disco 774 al tempo t=1.336421E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.79	 0.84	 0.80	 0.84	 0.86	 0.09	 -0.27	 -0.80
+	 Calcolo la distanza fra le particelle che collidono:	 0.000173.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.79	 0.84	 0.80	 0.84	 -0.40	 -0.18	 0.99	 -0.53
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 607 collide col disco 608 al tempo t=2.409232E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.25	 0.68	 0.26	 0.68	 0.61	 0.36	 -0.09	 0.35
+	 Calcolo la distanza fra le particelle che collidono:	 0.000017.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.25	 0.68	 0.26	 0.68	 -0.09	 0.37	 0.61	 0.35
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 611 collide col disco 612 al tempo t=4.504175E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.37	 0.67	 0.38	 0.67	 -0.01	 0.08	 -0.37	 -0.93
+	 Calcolo la distanza fra le particelle che collidono:	 0.000014.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.37	 0.67	 0.38	 0.67	 -0.31	 0.10	 -0.07	 -0.95
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 725 collide col disco 755 al tempo t=4.440784E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.16	 0.80	 0.15	 0.81	 0.27	 0.19	 0.13	 -0.95
+	 Calcolo la distanza fra le particelle che collidono:	 0.000042.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.16	 0.80	 0.15	 0.81	 0.71	 -0.65	 -0.30	 -0.11
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 848 collide col disco 879 al tempo t=4.878058E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.27	 0.95	 0.28	 0.95	 -0.02	 0.50	 -0.72	 -0.78
+	 Calcolo la distanza fra le particelle che collidono:	 0.000029.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.27	 0.95	 0.28	 0.95	 -0.60	 0.55	 -0.13	 -0.83
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 22 collide col disco 51 al tempo t=1.628391E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.72	 0.01	 0.72	 0.03	 -0.40	 0.39	 0.71	 -1.17
+	 Calcolo la distanza fra le particelle che collidono:	 0.000245.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.72	 0.01	 0.72	 0.03	 -0.49	 -1.10	 0.80	 0.32
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 349 collide col disco 380 al tempo t=2.494724E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.63	 0.38	 0.64	 0.38	 0.82	 -0.01	 -0.87	 -0.74
+	 Calcolo la distanza fra le particelle che collidono:	 0.000004.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.63	 0.38	 0.64	 0.38	 -0.94	 -0.35	 0.90	 -0.40
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 6 collide col disco 36 al tempo t=5.947335E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.21	 0.01	 0.21	 0.03	 0.20	 0.54	 0.24	 -0.15
+	 Calcolo la distanza fra le particelle che collidono:	 0.000041.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.21	 0.01	 0.21	 0.03	 0.15	 -0.14	 0.29	 0.54
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 604 collide col disco 605 al tempo t=3.537647E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.14	 0.68	 0.15	 0.68	 0.17	 0.40	 -0.53	 0.33
+	 Calcolo la distanza fra le particelle che collidono:	 0.000002.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.14	 0.68	 0.15	 0.68	 -0.51	 0.48	 0.15	 0.25
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 1 collide col disco 2 al tempo t=1.113543E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.03	 1.00	 0.05	 1.00	 0.53	 0.59	 -0.69	 -0.08
+	 Calcolo la distanza fra le particelle che collidono:	 0.000146.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.03	 1.00	 0.05	 1.00	 -0.76	 0.40	 0.60	 0.11
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 679 collide col disco 680 al tempo t=4.344467E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.65	 0.75	 0.66	 0.76	 1.01	 0.42	 -0.26	 0.88
+	 Calcolo la distanza fra le particelle che collidono:	 0.000049.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.65	 0.75	 0.66	 0.76	 -0.09	 0.16	 0.83	 1.15
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 424 collide col disco 454 al tempo t=2.071440E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.15	 0.47	 0.14	 0.48	 -0.87	 0.70	 0.22	 -0.75
+	 Calcolo la distanza fra le particelle che collidono:	 0.000038.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.15	 0.47	 0.14	 0.48	 0.19	 -0.78	 -0.83	 0.73
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 802 collide col disco 832 al tempo t=1.804958E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.71	 0.89	 0.72	 0.90	 -0.80	 0.86	 -0.60	 0.14
+	 Calcolo la distanza fra le particelle che collidono:	 0.000011.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.71	 0.89	 0.72	 0.90	 -1.02	 0.30	 -0.38	 0.70
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 429 collide col disco 460 al tempo t=2.658250E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.32	 0.49	 0.33	 0.49	 0.61	 0.83	 0.46	 -0.98
+	 Calcolo la distanza fra le particelle che collidono:	 0.000018.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.32	 0.49	 0.33	 0.49	 -0.05	 0.62	 1.11	 -0.77
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 122 collide col disco 123 al tempo t=1.514328E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.06	 0.14	 0.08	 0.14	 0.81	 0.83	 -0.88	 0.24
+	 Calcolo la distanza fra le particelle che collidono:	 0.000270.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.06	 0.14	 0.08	 0.14	 -0.91	 0.36	 0.84	 0.72
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 283 collide col disco 313 al tempo t=1.455939E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.43	 0.29	 0.43	 0.31	 -0.67	 0.00	 -0.07	 -0.86
+	 Calcolo la distanza fra le particelle che collidono:	 0.000126.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.43	 0.29	 0.43	 0.31	 -0.67	 -0.86	 -0.07	 0.00
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 434 collide col disco 464 al tempo t=3.545256E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.48	 0.47	 0.49	 0.48	 0.50	 0.76	 0.72	 -0.68
+	 Calcolo la distanza fra le particelle che collidono:	 0.000004.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.48	 0.47	 0.49	 0.48	 -0.10	 -0.09	 1.33	 0.16
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 824 collide col disco 854 al tempo t=8.059132E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.46	 0.91	 0.47	 0.92	 0.17	 0.47	 0.09	 -0.60
+	 Calcolo la distanza fra le particelle che collidono:	 0.000007.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.46	 0.91	 0.47	 0.92	 -0.40	 -0.16	 0.66	 0.04
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 770 collide col disco 801 al tempo t=8.454183E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.85	 0.68	 0.87	 1.17	 0.29	 -0.98	 -0.60
+	 Calcolo la distanza fra le particelle che collidono:	 0.000122.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.67	 0.85	 0.68	 0.87	 0.80	 -1.09	 -0.60	 0.78
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 376 collide col disco 405 al tempo t=2.183255E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.52	 0.40	 0.52	 0.42	 0.04	 1.14	 0.49	 -0.35
+	 Calcolo la distanza fra le particelle che collidono:	 0.000003.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.52	 0.40	 0.52	 0.42	 0.73	 -0.24	 -0.19	 1.03
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 684 collide col disco 713 al tempo t=2.814927E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.79	 0.74	 0.78	 0.75	 -0.51	 0.37	 0.31	 -0.47
+	 Calcolo la distanza fra le particelle che collidono:	 0.000033.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.79	 0.74	 0.78	 0.75	 0.34	 -0.44	 -0.54	 0.34
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 744 collide col disco 774 al tempo t=6.729524E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.81	 0.83	 0.81	 0.84	 0.45	 0.92	 0.99	 -0.53
+	 Calcolo la distanza fra le particelle che collidono:	 0.000103.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.81	 0.83	 0.81	 0.84	 1.22	 -0.40	 0.22	 0.79
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 27 collide col disco 897 al tempo t=6.879652E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.91	 0.97	 0.90	 0.96	 -0.19	 -1.35	 0.56	 0.30
+	 Calcolo la distanza fra le particelle che collidono:	 0.000117.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.91	 0.97	 0.90	 0.96	 -0.07	 0.34	 0.43	 -1.39
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 859 collide col disco 860 al tempo t=7.122257E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.65	 0.93	 0.66	 0.93	 0.47	 -0.24	 -0.27	 0.03
+	 Calcolo la distanza fra le particelle che collidono:	 0.000036.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.65	 0.93	 0.66	 0.93	 0.04	 -0.50	 0.16	 0.28
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.138597.
+
+Il disco 0 collide col disco 31 al tempo t=3.165526E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.01	 1.00	 0.01	 0.01	 -0.34	 0.15	 -0.80	 -0.69
+	 Calcolo la distanza fra le particelle che collidono:	 0.971248.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.971275.
+	 Energia iniziale del sistema: 0.138597.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.01	 1.00	 0.01	 0.01	 -0.34	 -0.69	 -0.80	 0.15
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.971275.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 306 collide col disco 335 al tempo t=1.098961E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.19	 0.33	 0.19	 0.35	 -0.43	 0.04	 0.68	 -0.64
+	 Calcolo la distanza fra le particelle che collidono:	 0.000009.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.19	 0.33	 0.19	 0.35	 -0.29	 -0.80	 0.55	 0.19
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 191 collide col disco 220 al tempo t=4.695661E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.35	 0.20	 0.34	 0.21	 -0.75	 -0.15	 0.24	 -0.86
+	 Calcolo la distanza fra le particelle che collidono:	 0.000048.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.35	 0.20	 0.34	 0.21	 -0.36	 -1.10	 -0.15	 0.10
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 544 collide col disco 545 al tempo t=1.414343E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.13	 0.60	 0.14	 0.61	 0.25	 0.41	 -0.93	 0.39
+	 Calcolo la distanza fra le particelle che collidono:	 0.000153.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.13	 0.60	 0.14	 0.61	 -0.72	 -0.05	 0.04	 0.85
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 508 collide col disco 509 al tempo t=9.791430E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.95	 0.56	 0.96	 0.56	 0.42	 0.80	 -0.26	 0.95
+	 Calcolo la distanza fra le particelle che collidono:	 0.000060.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.95	 0.56	 0.96	 0.56	 -0.17	 0.62	 0.32	 1.12
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 825 collide col disco 854 al tempo t=1.318383E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.48	 0.91	 0.47	 0.92	 -0.64	 0.32	 0.66	 0.04
+	 Calcolo la distanza fra le particelle che collidono:	 0.000016.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.48	 0.91	 0.47	 0.92	 0.43	 -0.33	 -0.41	 0.69
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 490 collide col disco 519 al tempo t=7.941764E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.32	 0.53	 0.32	 0.55	 -0.29	 0.80	 0.87	 -0.71
+	 Calcolo la distanza fra le particelle che collidono:	 0.000010.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.32	 0.53	 0.32	 0.55	 -0.48	 -0.50	 1.07	 0.59
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 12 collide col disco 41 al tempo t=6.825846E-07.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.39	 0.99	 0.39	 0.01	 -0.36	 -0.29	 0.66	 -0.98
+	 Calcolo la distanza fra le particelle che collidono:	 0.971502.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.971503.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.39	 0.99	 0.39	 0.01	 -0.37	 -0.97	 0.67	 -0.30
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.971503.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 773 collide col disco 803 al tempo t=1.716257E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.79	 0.84	 0.78	 0.85	 -0.40	 -0.18	 0.45	 -0.71
+	 Calcolo la distanza fra le particelle che collidono:	 0.000017.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.79	 0.84	 0.78	 0.85	 0.23	 -0.91	 -0.18	 0.02
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 149 collide col disco 150 al tempo t=3.849589E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.97	 0.15	 0.98	 0.16	 0.17	 0.53	 -0.78	 -0.18
+	 Calcolo la distanza fra le particelle che collidono:	 0.000041.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.97	 0.15	 0.98	 0.16	 -0.31	 -0.42	 -0.30	 0.77
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 265 collide col disco 295 al tempo t=1.309892E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.85	 0.27	 0.84	 0.28	 -0.48	 0.58	 -0.35	 -0.64
+	 Calcolo la distanza fra le particelle che collidono:	 0.000015.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.85	 0.27	 0.84	 0.28	 0.01	 -0.47	 -0.84	 0.42
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 519 collide col disco 520 al tempo t=7.330690E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.32	 0.55	 0.34	 0.55	 1.07	 0.59	 0.17	 -0.50
+	 Calcolo la distanza fra le particelle che collidono:	 0.000092.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.32	 0.55	 0.34	 0.55	 -0.09	 0.09	 1.32	 0.00
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 160 collide col disco 191 al tempo t=2.098138E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.35	 0.18	 0.35	 0.20	 0.48	 0.50	 -0.36	 -1.10
+	 Calcolo la distanza fra le particelle che collidono:	 0.000032.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.35	 0.18	 0.35	 0.20	 0.62	 -1.01	 -0.51	 0.40
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 691 collide col disco 721 al tempo t=3.755820E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.03	 0.76	 0.04	 0.78	 0.89	 0.62	 0.19	 -0.82
+	 Calcolo la distanza fra le particelle che collidono:	 0.000059.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.03	 0.76	 0.04	 0.78	 0.43	 -0.89	 0.65	 0.69
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 496 collide col disco 497 al tempo t=3.322127E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.56	 0.56	 0.57	 0.56	 0.87	 0.94	 0.21	 0.94
+	 Calcolo la distanza fra le particelle che collidono:	 0.000022.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.56	 0.56	 0.57	 0.56	 0.21	 0.94	 0.87	 0.95
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 626 collide col disco 655 al tempo t=8.332802E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.84	 0.69	 0.83	 0.70	 -0.77	 0.95	 -0.10	 -0.07
+	 Calcolo la distanza fra le particelle che collidono:	 0.000077.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.84	 0.69	 0.83	 0.70	 0.12	 0.71	 -0.99	 0.17
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 356 collide col disco 385 al tempo t=6.777512E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.86	 0.38	 0.85	 0.38	 0.41	 1.17	 0.41	 -0.63
+	 Calcolo la distanza fra le particelle che collidono:	 0.000056.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.86	 0.38	 0.85	 0.38	 1.15	 0.80	 -0.32	 -0.25
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 79 collide col disco 110 al tempo t=2.436329E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.66	 0.07	 0.66	 0.08	 0.76	 0.18	 -0.34	 -0.25
+	 Calcolo la distanza fra le particelle che collidono:	 0.000002.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.66	 0.07	 0.66	 0.08	 0.11	 -0.61	 0.31	 0.54
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 321 collide col disco 350 al tempo t=2.625676E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.70	 0.34	 0.69	 0.35	 0.04	 0.33	 0.80	 -0.51
+	 Calcolo la distanza fra le particelle che collidono:	 0.000293.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.70	 0.34	 0.69	 0.35	 0.90	 -0.38	 -0.07	 0.20
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 504 collide col disco 533 al tempo t=2.236155E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.78	 0.52	 0.77	 0.53	 -0.87	 0.14	 0.07	 -1.18
+	 Calcolo la distanza fra le particelle che collidono:	 0.000036.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.78	 0.52	 0.77	 0.53	 -0.00	 -1.23	 -0.79	 0.19
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 402 collide col disco 403 al tempo t=3.585509E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.42	 0.44	 0.43	 0.45	 0.73	 1.35	 -0.06	 0.53
+	 Calcolo la distanza fra le particelle che collidono:	 0.000041.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.42	 0.44	 0.43	 0.45	 0.08	 0.43	 0.60	 1.45
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 358 collide col disco 387 al tempo t=1.238659E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.93	 0.37	 0.93	 0.38	 0.51	 0.04	 0.97	 -0.64
+	 Calcolo la distanza fra le particelle che collidono:	 0.000090.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.93	 0.37	 0.93	 0.38	 0.57	 -0.68	 0.91	 0.08
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 4 collide col disco 34 al tempo t=4.317967E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.14	 0.02	 0.15	 0.03	 0.62	 0.96	 0.27	 -0.61
+	 Calcolo la distanza fra le particelle che collidono:	 0.000058.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.14	 0.02	 0.15	 0.03	 -0.34	 -0.00	 1.23	 0.35
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 437 collide col disco 468 al tempo t=1.520451E-04.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.59	 0.48	 0.60	 0.49	 0.95	 0.30	 -0.04	 -0.35
+	 Calcolo la distanza fra le particelle che collidono:	 0.000139.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.59	 0.48	 0.60	 0.49	 0.70	 -0.57	 0.21	 0.52
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 737 collide col disco 738 al tempo t=6.062743E-06.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.57	 0.80	 0.58	 0.78	 0.66	 -0.19	 -0.82	 -0.53
+	 Calcolo la distanza fra le particelle che collidono:	 0.000004.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.57	 0.80	 0.58	 0.78	 0.32	 0.29	 -0.48	 -1.00
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 792 collide col disco 823 al tempo t=2.199352E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.41	 0.87	 0.42	 0.87	 0.30	 0.21	 -1.44	 -0.79
+	 Calcolo la distanza fra le particelle che collidono:	 0.000039.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.41	 0.87	 0.42	 0.87	 -1.46	 0.19	 0.31	 -0.78
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 282 collide col disco 312 al tempo t=7.293264E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.38	 0.30	 0.38	 0.31	 -0.77	 -0.01	 -0.70	 -0.65
+	 Calcolo la distanza fra le particelle che collidono:	 0.000046.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.38	 0.30	 0.38	 0.31	 -0.87	 -0.63	 -0.61	 -0.04
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 782 collide col disco 812 al tempo t=5.531536E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.07	 0.88	 0.06	 0.89	 0.26	 0.54	 -0.08	 -0.92
+	 Calcolo la distanza fra le particelle che collidono:	 0.000034.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.07	 0.88	 0.06	 0.89	 0.75	 0.18	 -0.57	 -0.56
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 494 collide col disco 525 al tempo t=1.019016E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.48	 0.54	 0.47	 0.55	 0.00	 1.12	 -0.91	 -0.47
+	 Calcolo la distanza fra le particelle che collidono:	 0.000011.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.48	 0.54	 0.47	 0.55	 0.45	 0.14	 -1.35	 0.50
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 191 collide col disco 220 al tempo t=3.338658E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.34	 0.20	 0.34	 0.21	 -0.51	 0.40	 -0.15	 0.10
+	 Calcolo la distanza fra le particelle che collidono:	 0.000014.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.34	 0.20	 0.34	 0.21	 -0.37	 0.01	 -0.29	 0.48
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 453 collide col disco 482 al tempo t=1.078688E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.08	 0.53	 0.07	 0.54	 -0.98	 0.61	 0.09	 0.14
+	 Calcolo la distanza fra le particelle che collidono:	 0.000012.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.08	 0.53	 0.07	 0.54	 -0.15	 -0.13	 -0.74	 0.88
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 781 collide col disco 810 al tempo t=3.001894E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.02	 0.88	 0.02	 0.90	 0.61	 1.13	 0.67	 -0.09
+	 Calcolo la distanza fra le particelle che collidono:	 0.000036.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.02	 0.88	 0.02	 0.90	 0.55	 -0.09	 0.73	 1.12
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 -0.000000.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 631 collide col disco 689 al tempo t=5.067423E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.01	 0.72	 1.00	 0.72	 -0.79	 0.69	 0.97	 -0.46
+	 Calcolo la distanza fra le particelle che collidono:	 0.970792.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.970881.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.01	 0.72	 1.00	 0.72	 0.97	 0.69	 -0.79	 -0.46
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.970881.
+	 Energia finale del sistema: 0.593762.
+
+Il disco 253 collide col disco 284 al tempo t=4.798166E-05.
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.44	 0.27	 0.45	 0.27	 0.14	 0.09	 -1.41	 -1.21
+	 Calcolo la distanza fra le particelle che collidono:	 0.000054.
+
+
+
+		--- EVOLUZIONE ---
+
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia iniziale del sistema: 0.593762.
+
+
+
+	 x1	 y1	 x2	 y2 	 vx1	 vy1	 vx2	 vy2
+	 0.44	 0.27	 0.45	 0.27	 -0.95	 0.40	 -0.33	 -1.53
+	 Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:	 0.000000.
+	 Energia finale del sistema: 0.593762.
