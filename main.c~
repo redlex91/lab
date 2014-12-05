@@ -8,7 +8,7 @@
 
 // DEFINIZIONE DI COSTANTI
 #define N 900
-#define ETA 0.55
+#define ETA 0.15
 #define PI M_PI //3.14159265358979
 
 // VARIABILI GLOBALI
@@ -26,12 +26,11 @@ double amongst_copies_search( double r1x, double r1y, double v1x, double v1y, do
 void evolve( double rx[ N ], double ry[ N ], double vx[ N ], double vy[ N ], double delta );
 void speed_refresh( double rx[ N ], double ry[ N ], double vx[ N ], double vy[ N ], int p1, int p2 ); // p1 e p2 sono risp. le posizioni delle due particelle che collidono
 double energy_compute( double vx[ N ], double vy[ N ] );
-double distance( double r1x, double r1y, double r2x, double r2y );
 int TheFunction( int nc );
 
 int main( void ){
 
-	TheFunction( 500 );
+	TheFunction( 300 );
 
 	return 0;
 }
@@ -88,7 +87,7 @@ int TheFunction( int nc ){
 	}
 
 
-	vcmx=0, vcmy=0;
+
 
 
 	
@@ -103,17 +102,22 @@ int TheFunction( int nc ){
 		vy[i] = vy[i] - vcmy;
 	}
 	
-
+	vcmx=0, vcmy=0;
 	// controllo che il centro di massa sia fermo
 		for( i=0; i<N; i++ ){
 		vcmx += (double)vx[i] / N;
 		vcmy += (double)vy[i] / N;
 	}
 	
-	fprintf( cfPtrEn, "Passo\t\t\tEnergia\n\n" );
 	while( count <= nc ){
-
-	fprintf( cfPtrEn, "%d\t\t\t%f\n", count, energy_compute( vx, vy ) );
+	fprintf( cfPtrEn, "Energia al passo %d:\t%f.\n\n", count, energy_compute( vx, vy ) );
+	/*for( i=0; i<N; i++ ){
+		for( j=0; j<N; j++ ){
+			if( sqrt( pow((rx[i] - rx[j]), 2)+ pow(( ry[i] - ry[ j ] ),2) ) - sigma <0 ) printf("\nPasso %d: %f\n",count,  sqrt( pow((rx[i] - rx[j]), 2)+ pow(( ry[i] - ry[ j ] ),2) ) - sigma );
+		}
+	}	
+	*/
+		
 	/*
 	printf( "\n Esempio= %f\n" , amongst_copies_search( r0x[1], r0y[1], v0x[1], v0y[1], r0x[0], r0y[0], v0x[0], v0y[0], sigma ) );
 	// controlli vari
@@ -123,7 +127,8 @@ int TheFunction( int nc ){
 		fprintf( cfPtr, "\t velocità:\t(%f,%f)", vx[i], vy[i] );
 		fprintf( cfPtr,  "\n\n" );
 	}*/
-			
+	
+	
 	/**************************************************************** DETERMINAZIONE DEI TEMPI DI COLLISIONE *********************************************************
 	******************************************************************************************************************************************************************
 	*****************************************************************************************************************************************************************/		
@@ -182,13 +187,13 @@ int TheFunction( int nc ){
 	else{
 		fprintf( cfPtr, "\t x1\t y1\t x2\t y2 \t vx1\t vy1\t vx2\t vy2\n" );
 		fprintf( cfPtr, "\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\n", rx[ min_place[ 0 ] ], ry[ min_place[ 0 ] ], rx[ min_place[ 1 ] ], ry[ min_place[ 1 ] ], vx[ min_place[ 0 ] ], vy[ min_place[ 0 ] ], vx[ min_place[ 1 ] ], vy[ min_place[ 1 ] ] );
-		fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono:\t %f $ %f.\n", sqrt( pow( rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ], 2 ) + pow(ry[ min_place [ 0 ] ] - ry[ min_place[ 1 ] ], 2 ) ) - sigma, distance( rx[ min_place[ 0 ] ], ry[ min_place[ 0 ] ], rx[ min_place[ 1 ] ], ry[ min_place[ 1 ] ] ) - sigma );
+		fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono:\t %f.\n", sqrt( pow( rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ], 2 ) + pow(ry[ min_place [ 0 ] ] - ry[ min_place[ 1 ] ], 2 ) ) - sigma );
 		fprintf( cfPtr, "\n\n\n" );
 		} // chiudo else - scrittura file
 	//fclose( cfPtr );
 		
 	delta_t = min;
-	
+
 	/*
 	// determino la posizione della particella 2 coinvolta nell'urto
 	if( abs( rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ]) > 0.5 )
@@ -226,28 +231,28 @@ int TheFunction( int nc ){
 	if( cfPtr == NULL ) printf(" Memoria non disponibile!\n ");
 	else{
 		fprintf( cfPtr, "\t\t--- EVOLUZIONE ---\n\n" );
-		fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:\t %f $ %f.\n",  sqrt( pow( rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ], 2 ) + pow(ry[ min_place [ 0 ] ] - ry[ min_place[ 1 ] ], 2 ) ) - sigma, distance( rx[ min_place[ 0 ] ], ry[ min_place[ 0 ] ], rx[ min_place[ 1 ] ], ry[ min_place[ 1 ] ] ) - sigma );
+		fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:\t %f.\n",  sqrt( pow( rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ], 2 ) + pow(ry[ min_place [ 0 ] ] - ry[ min_place[ 1 ] ], 2 ) ) - sigma );
 		fprintf( cfPtr, "\t Energia iniziale del sistema: %f.\n", energy_compute( vx, vy ) );
 
 		fprintf( cfPtr, "\n\n\n" );
 	}
 
 	// memorizzo le posizioni delle particelle durante l'urto
-	/*for( k = 0; k < N; k++ ){
+	for( k = 0; k < N; k++ ){
 		r0x[ k ] = rx[ k ];
 		r0y[ k ] = ry[ k ];
-	}*/
+	}
 	/************************************************************* AGGIORNAMENTO DELLE VELOCITA **********************************************************************
 	******************************************************************************************************************************************************************
 	******************************************************************************************************************************************************************
 	*****************************************************************************************************************************************************************/
-	speed_refresh( rx, ry, vx, vy,  min_place[ 0 ], min_place[ 1 ] );	
+	speed_refresh( r0x, r0y, vx, vy,  min_place[ 0 ], min_place[ 1 ] );	
 
 	if( cfPtr == NULL ) printf(" Memoria non disponibile!\n ");
 	else{
 		fprintf( cfPtr, "\t x1\t y1\t x2\t y2 \t vx1\t vy1\t vx2\t vy2\n" );
 		fprintf( cfPtr, "\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\t %.2f\n", rx[ min_place[ 0 ] ], ry[ min_place[ 0 ] ], rx[ min_place[ 1 ] ], ry[ min_place[ 1 ] ], vx[ min_place[ 0 ] ], vy[ min_place[ 0 ] ], vx[ min_place[ 1 ] ], vy[ min_place[ 1 ] ] );
-		fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:\t %f $$ %f.\n",  sqrt( pow( rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ], 2 ) + pow(ry[ min_place [ 0 ] ] - ry[ min_place[ 1 ] ], 2 ) ) - sigma, distance( rx[ min_place[ 0 ] ], ry[ min_place[ 0 ] ], rx[ min_place[ 1 ] ], ry[ min_place[ 1 ] ] ) - sigma );
+		fprintf( cfPtr, "\t Calcolo la distanza fra le particelle che collidono dopo l'evoluzione:\t %f.\n",  sqrt( pow( rx[ min_place[ 0 ] ] - rx[ min_place[ 1 ] ], 2 ) + pow(ry[ min_place [ 0 ] ] - ry[ min_place[ 1 ] ], 2 ) ) - sigma );
 	
 		fprintf( cfPtr, "\t Energia finale del sistema: %f.\n", energy_compute( vx, vy ) );
 		} // chiudo else - scrittura file
@@ -263,15 +268,7 @@ int TheFunction( int nc ){
 	
 	} // chiudo il while di TheFunction
 	fclose( cfPtr );
-	fclose( cfPtrEn );
-	
-	for( i=0; i<N; i++ ){
-		for( j=0; j<N; j++ ){
-			if( ( sqrt( pow((rx[i] - rx[j]), 2) + pow(( ry[i] - ry[ j ] ),2) )  - sigma && i!=j ) < - pow( 10, -10 ) ) printf("\nPasso %d: sovrapposizione: %f\nIndici: %d, %d",count,  sqrt( pow((rx[i] - rx[j]), 2)+ pow(( ry[i] - ry[ j ] ),2) ) - sigma, i, j );
-			
-		}
-	}	
-
+	fclose( cfPtrEn );	
 	return 0;
 }
 
@@ -281,7 +278,6 @@ int TheFunction( int nc ){
 double speed_gen( void ){
 	return ( rand()/(double)RAND_MAX ) * pow( ( -1 ), ( rand() % 2 ) );
 }
-
 
 // determina il tempo di collisione fra due dischi
 double coll_time_search( double r1x, double r1y, double v1x, double v1y, double r2x, double r2y, double v2x, double v2y, double s ){
@@ -299,13 +295,14 @@ double coll_time_search( double r1x, double r1y, double v1x, double v1y, double 
 	sq_norm_v = dv_x * dv_x + dv_y * dv_y;
 	
 	// uscita della funzione
+		/*
+	fprintf( cfPtr, "\n Cerca: %g, %g, %g, %e, %g\n", dot_prod, sq_norm_r, sq_norm_v, s * s, sqrt(sq_norm_r) - s );
+	fprintf( cfPtr, " tempo: \%g\n", (- dot_prod - sqrt( dot_prod * dot_prod - sq_norm_v * ( sq_norm_r - s * s ) ) ) / sq_norm_v );
+	*/
 	
-	/*fprintf( cfPtr, "\n Cerca: %g, %g, %g, %e, %g\n", dot_prod, sq_norm_r, sq_norm_v, s * s, sqrt(sq_norm_r) - s );
-	fprintf( cfPtr, " tempo: \%g\n", (- dot_prod - sqrt( dot_prod * dot_prod - sq_norm_v * ( sq_norm_r - s * s ) ) ) / sq_norm_v );*/
 	
-	
-	
-	if( dot_prod < 0 && ( dot_prod * dot_prod - sq_norm_v * ( sq_norm_r - s * s ) >=0 ) ) { // controllo che i dischi si avvicinino e che i tempi siano reali
+	if( dot_prod < 0 && ( dot_prod * dot_prod - sq_norm_v * ( sq_norm_r - s * s ) >=0 ) ){ // controllo che i dischi si avvicinino e che i tempi siano reali
+		if( sqrt( sq_norm_r ) - s < 0 ) printf( "\nPasso %d: ERRORE tempo: %e\n", count,  ( - dot_prod - sqrt( dot_prod * dot_prod - sq_norm_v * ( sq_norm_r - s * s ) ) ) / sq_norm_v);
 		return ( - dot_prod - sqrt( dot_prod * dot_prod - sq_norm_v * ( sq_norm_r - s * s ) ) ) / sq_norm_v;
 	}
 	else return FLT_MAX;
@@ -349,9 +346,9 @@ double amongst_copies_search( double r1x, double r1y, double v1x, double v1y, do
 	return v_min_search( vec );
 }
 
-
 // evoluzione del sistema
 void evolve( double rx[ N ], double ry[ N ], double v0x[ N ], double v0y[ N ], double delta ){
+	// l'evoluzione deve avvenire con le velocità precedenti all'aggiornamento: v0x, v0y velocità prima dell'aggiornamento;
 	int k; // contatore del ciclo
 
 	for( k = 0; k < N; k++ ){
@@ -367,29 +364,21 @@ void evolve( double rx[ N ], double ry[ N ], double v0x[ N ], double v0y[ N ], d
 // aggiornamento delle velocità
 void speed_refresh( double rx[ N ], double ry[ N ], double vx[ N ], double vy[ N ], int p1, int p2){
 	double vers_rx, vers_ry, dot_prod, sq_norm;
-	double x1 = rx[ p1 ], x2 = rx[ p2 ], y1 = ry[ p1 ], y2 = ry[ p2 ]; 
 
-	//determino la posizione della particella 2 coinvolta nell'urto
-	/*if( fabs( x1 - x2 ) > 0.5 )
-		x2 = ( x1 - x2 ) / fabs( x1 - x2 ) * ( 1 - fabs( x1 - x2 ) );
-		//rx[ p2 ] += floor( 0.5 +  rx[ p1 ] - rx[ p2 ] );
+	// determino la posizione della particella 2 coinvolta nell'urto
+	if( abs( rx[ p1 ] - rx[ p2 ]) > 0.5 )
+		rx[ p2 ] += floor( 0.5 +  rx[ p1 ] - rx[ p2 ] );
  
-	if( fabs( y1 - y2 ) > 0.5 )
-		y2 = ( y1 - y2 )/ fabs( y1 - y2 ) * ( 1 - fabs( y1 - y2 ) );
-		//ry[ p2 ] += floor( 0.5 +  ry[ p1 ] - ry[ p2 ] );*/
-
-	if( fabs( x1 - x2 ) > 0.5 )
-		x2 += floor( 0.5 +  x1 - x2 );
-	if( fabs( y1 - y2 ) > 0.5 )
-		y2 += floor( 0.5 +  y1 - y2 );
+	if( abs( ry[ p1 ] - ry[ p2 ]) > 0.5 )
+		ry[ p2 ] += floor( 0.5 +  ry[ p1 ] - ry[ p2 ] );
 
 	// qualche calcolo preliminare	
-	sq_norm = ( x2 - x1 ) * ( x2 -x1 ) + ( y2 -y1 ) * ( y2 -y1 );
-	vers_rx = ( x2 - x1 ) / sqrt( sq_norm );
-	vers_ry = ( y2 -y1 ) / sqrt( sq_norm );
+	sq_norm = ( rx[ p2 ] - rx [ p1 ] ) * ( rx[ p2 ] -rx[ p1 ] ) + ( ry[ p2 ] -ry[ p1 ] ) * ( ry[ p2 ] -ry[ p1 ] );
+	vers_rx = ( rx[ p2 ] - rx[ p1 ] ) / sqrt( sq_norm );
+	vers_ry = ( ry[ p2 ] -ry[ p1 ] ) / sqrt( sq_norm );
 	dot_prod = ( vx[ p1 ] - vx[ p2 ] ) * vers_rx + ( vy[ p1 ] -vy[ p2 ] ) * vers_ry;
 	
-	// assegno le nuove velocità
+	// assegno le nuvoe velocità
 	vx[ p1 ] -= dot_prod * vers_rx;
 	vy[ p1 ] -= dot_prod * vers_ry;
 	vx[ p2 ] += dot_prod * vers_rx;
@@ -401,22 +390,8 @@ double energy_compute( double vx[ N ], double vy[ N ] ){
 	double sum=0;
 	int k;
 
-	for( k=0; k<N; k++ )	sum += pow( vx[ k ],2 ) + pow( vy[ k ], 2 );
-	return sum;
-}
-
-double distance( double r1x, double r1y, double r2x, double r2y ){
-	
-	double x1 = r1x, x2 = r2x, y1 = r1y, y2 = r2y;
-	
-	/*if( fabs( x1 - x2 ) > 0.5 )
-		x2 = ( x1 - x2 )/fabs( x1 - x2 ) * ( 1 - fabs( x1 - x2 ) );
-	if( fabs( y1 - y2 ) > 0.5 )
-		y2 = ( y1 - y2  )/ fabs( y1 - y2 ) * ( 1 -fabs( y1 - y2 ) );*/
-	if( fabs( x1 - x2 ) > 0.5 )
-		x2 += floor( 0.5 +  x1 - x2 );
-	if( fabs( y1 - y2 ) > 0.5 )
-		y2 += floor( 0.5 +  y1 - y2 );
-	
-	return sqrt( pow( (x1 - x2 ), 2 ) + pow( (y1 - y2 ), 2 ) );
+	for( k=0; k<N; k++ ){
+		sum += ( vx[ k ] * vx[ k ] + vy[ k ] * vy[ k ] );
+		return sum;
+	}
 }
